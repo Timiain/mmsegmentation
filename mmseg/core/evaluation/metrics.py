@@ -64,9 +64,8 @@ def intersect_and_union(pred_label,
         label = torch.from_numpy(label)
 
     if label_map is not None:
-        label_copy = label.clone()
         for old_id, new_id in label_map.items():
-            label[label_copy == old_id] = new_id
+            label[label == old_id] = new_id
     if reduce_zero_label:
         label[label == 0] = 255
         label = label - 1
@@ -293,8 +292,44 @@ def eval_metrics(results,
 
     return ret_metrics
 
-
 def pre_eval_to_metrics(pre_eval_results,
+                        metrics=['mIoU'],
+                        nan_to_num=None,
+                        beta=1):
+    """Convert pre-eval results to metrics.
+
+    Args:
+        pre_eval_results (list[tuple[torch.Tensor]]): per image eval results
+            for computing evaluation metric
+        metrics (list[str] | str): Metrics to be evaluated, 'mIoU' and 'mDice'.
+        nan_to_num (int, optional): If specified, NaN values will be replaced
+            by the numbers defined by the user. Default: None.
+     Returns:
+        float: Overall accuracy on all images.
+        ndarray: Per category accuracy, shape (num_classes, ).
+        ndarray: Per category evaluation metrics, shape (num_classes, ).
+    """
+
+    # convert list of tuples to tuple of lists, e.g.
+    # [(A_1, B_1, C_1, D_1), ...,  (A_n, B_n, C_n, D_n)] to
+    # ([A_1, ..., A_n], ..., [D_1, ..., D_n])
+    pre_eval_results = tuple(zip(*pre_eval_results))
+    assert len(pre_eval_results) == 4
+
+    #no last
+    total_area_intersect = sum(pre_eval_results[0])[:-1]
+    total_area_union = sum(pre_eval_results[1])[:-1]
+    total_area_pred_label = sum(pre_eval_results[2])[:-1]
+    total_area_label = sum(pre_eval_results[3])[:-1]
+
+    ret_metrics = total_area_to_metrics(total_area_intersect, total_area_union,
+                                        total_area_pred_label,
+                                        total_area_label, metrics, nan_to_num,
+                                        beta)
+
+    return ret_metrics
+
+def pre_eval_to_metrics_bp(pre_eval_results,
                         metrics=['mIoU'],
                         nan_to_num=None,
                         beta=1):

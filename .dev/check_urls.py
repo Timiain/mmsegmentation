@@ -18,9 +18,12 @@ def check_url(url):
     Returns:
         int, bool: status code and check flag.
     """
+    flag = True
     r = requests.head(url)
     status_code = r.status_code
-    flag = status_code not in [403, 404]
+    if status_code == 403 or status_code == 404:
+        flag = False
+
     return status_code, flag
 
 
@@ -32,7 +35,8 @@ def parse_args():
         type=str,
         help='Select the model needed to check')
 
-    return parser.parse_args()
+    args = parser.parse_args()
+    return args
 
 
 def main():

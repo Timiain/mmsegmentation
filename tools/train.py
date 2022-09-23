@@ -226,6 +226,33 @@ def main():
             PALETTE=datasets[0].PALETTE)
     # add an attribute for visualization convenience
     model.CLASSES = datasets[0].CLASSES
+
+
+
+    import numpy as np
+    #check label's frequents
+    count = np.zeros(len(model.CLASSES))
+    for ds in datasets:
+        if hasattr(ds,'img_infos'):
+            tmp_ds = ds
+        elif hasattr(ds,'dataset'):
+            tmp_ds = ds.dataset
+        for i in range(len(tmp_ds.img_infos)):
+            gt = tmp_ds.get_gt_seg_map_by_idx(i)
+            gt = np.array(gt)
+            for kls in range(len(model.CLASSES)):
+                c = np.sum((gt==kls).astype(np.int))
+                count[kls] += c
+    str_ii = "train_set:# "
+    sum_ = np.sum(count)
+    radios = count/sum_
+    for kls in range(len(model.CLASSES)):
+        str_ii += '{}:{}({:.2f})  '.format(model.CLASSES[kls],int(count[kls]),radios[kls])
+    print(str_ii)
+    meta['train_label_freq'] = count
+    meta['train_label_radio'] = radios
+    meta['CLASS'] = model.CLASSES
+
     # passing checkpoint meta for saving best checkpoint
     meta.update(cfg.checkpoint_config.meta)
     train_segmentor(

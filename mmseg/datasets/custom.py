@@ -14,6 +14,7 @@ from mmseg.utils import get_root_logger
 from .builder import DATASETS
 from .pipelines import Compose, LoadAnnotations
 
+from mmseg.core.hook.myhooks import trick_pre_eval
 
 @DATASETS.register_module()
 class CustomDataset(Dataset):
@@ -274,6 +275,7 @@ class CustomDataset(Dataset):
             self.gt_seg_map_loader(results)
             yield results['gt_semantic_seg']
 
+    @trick_pre_eval
     def pre_eval(self, preds, indices):
         """Collect eval result from each iteration.
 
@@ -295,8 +297,12 @@ class CustomDataset(Dataset):
 
         pre_eval_results = []
 
+        seg_maps=[]
         for pred, index in zip(preds, indices):
             seg_map = self.get_gt_seg_map_by_idx(index)
+            #for hook
+            seg_maps.append(seg_map)
+
             pre_eval_results.append(
                 intersect_and_union(
                     pred,
@@ -311,7 +317,7 @@ class CustomDataset(Dataset):
                     label_map=dict(),
                     reduce_zero_label=self.reduce_zero_label))
 
-        return pre_eval_results
+        return pre_eval_results,preds,seg_maps
 
     def get_classes_and_palette(self, classes=None, palette=None):
         """Get class names of current dataset.
@@ -436,7 +442,8 @@ class CustomDataset(Dataset):
         if self.CLASSES is None:
             class_names = tuple(range(num_classes))
         else:
-            class_names = self.CLASSES
+            #class_names = self.CLASSES
+            class_names = self.CLASSES[:-1]
 
         # summary table
         ret_metrics_summary = OrderedDict({

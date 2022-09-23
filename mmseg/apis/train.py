@@ -17,6 +17,8 @@ from mmseg.datasets import build_dataloader, build_dataset
 from mmseg.utils import (build_ddp, build_dp, find_latest_checkpoint,
                          get_root_logger)
 
+import numpy as np
+from mmseg.core.hook.myhooks import MyHook
 
 def init_random_seed(seed=None, device='cuda'):
     """Initialize random seed.

@@ -53,7 +53,8 @@ def parse_args():
         '-s', '--show', action='store_true', help='show results')
     parser.add_argument(
         '-d', '--device', default='cuda:0', help='Device used for inference')
-    return parser.parse_args()
+    args = parser.parse_args()
+    return args
 
 
 def inference_model(config_name, checkpoint, args, logger=None):
@@ -65,10 +66,11 @@ def inference_model(config_name, checkpoint, args, logger=None):
                 0.5, 0.75, 1.0, 1.25, 1.5, 1.75
             ]
             cfg.data.test.pipeline[1].flip = True
-        elif logger is None:
-            print(f'{config_name}: unable to start aug test', flush=True)
         else:
-            logger.error(f'{config_name}: unable to start aug test')
+            if logger is not None:
+                logger.error(f'{config_name}: unable to start aug test')
+            else:
+                print(f'{config_name}: unable to start aug test', flush=True)
 
     model = init_segmentor(cfg, checkpoint, device=args.device)
     # test a single image

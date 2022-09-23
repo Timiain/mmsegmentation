@@ -72,9 +72,9 @@ if __name__ == '__main__':
                 print(f'log file error: {log_json_path}')
                 continue
 
-            differential_results = {}
-            old_results = {}
-            new_results = {}
+            differential_results = dict()
+            old_results = dict()
+            new_results = dict()
             for metric_key in model_performance:
                 if metric_key in ['mIoU']:
                     metric = round(model_performance[metric_key] * 100, 2)
