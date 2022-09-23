@@ -33,12 +33,20 @@ python ./tools/convert_datasets/potsdam.py ./data/Potsdam/
 
 ### 2. 选择配置文件
 
-自定义配置文件
+Vaihingen
 ```
 nohup python ./tools/train.py ./configs/hrnet/fcn_hr48_4x4_512x512_80k_vaihingen_mma_balance_norm.py --seed 42 --gpu-id 1 > ./work_dirs/vaihingen_mma_balance_norm.txt &
 ```
 
-默认配置文件
 ```
 nohup python ./tools/train.py ./configs/hrnet/fcn_hr48_4x4_512x512_80k_vaihingen.py --seed 42 --gpu-id 0 > ./work_dirs/vaihingen.txt &
 ```
+
+Potsdam 
+```
+ nohup python3 ./tools/train.py ./configs/hrnet/fcn_hr48_512x512_80k_potsdam.py --seed 42 --gpu-id 0 > ./work_dirs/potsdam.txt &
+```
+```
+nohup python3 ./tools/train.py ./configs/hrnet/fcn_hr48_512x512_80k_potsdam_mma_balance_norm.py --seed 42 --gpu-id 1 > ./work_dirs/potsdam_mma_balance_norm.txt &
+```
+
