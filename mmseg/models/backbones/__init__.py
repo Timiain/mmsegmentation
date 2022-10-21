@@ -6,6 +6,7 @@ from .cgnet import CGNet
 from .erfnet import ERFNet
 from .fast_scnn import FastSCNN
 from .hrnet import HRNet
+from .hrbcnet import HRBCNet
 from .icnet import ICNet
 from .mae import MAE
 from .mit import MixVisionTransformer
