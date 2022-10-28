@@ -1,0 +1,3 @@
+python ./tools/test.py ./configs/hrnet/fcn_hr48_4x4_512x512_80k_vaihingen_tta.py ./work_dirs/fcn_hr48_4x4_512x512_80k_vaihingen_tta/latest.pth --eval mIoU
+nohup python ./tools/test.py ./configs/hrnet/fcn_hr48_512x512_80k_potsdam_tta.py ./work_dirs/fcn_hr48_512x512_80k_potsdam_tta/latest.pth --eval mIoU > potsdam_tta_lr.txt &
+nohup python ./tools/test.py ./configs/hrnet/fcn_hr48_512x512_80k_potsdam_tta.py ./work_dirs/fcn_hr48_512x512_80k_potsdam_tta/latest.pth --eval mIoU > potsdam_tta_d4.txt &

@@ -1,0 +1,1457 @@
+train_set:# impervious_surface:8531272(0.10)  building:22717353(0.25)  low_vegetation:22016194(0.25)  tree:16544415(0.18)  car:19049686(0.21)  clutter:751572(0.01)  
+[                                                  ] 0/398, elapsed: 0s, ETA:[                                 ] 1/398, 1.6 task/s, elapsed: 1s, ETA:   242s[                                 ] 2/398, 2.8 task/s, elapsed: 1s, ETA:   142s[                                 ] 3/398, 3.7 task/s, elapsed: 1s, ETA:   107s[                                 ] 4/398, 4.3 task/s, elapsed: 1s, ETA:    92s[                                 ] 5/398, 4.9 task/s, elapsed: 1s, ETA:    80s[                                 ] 6/398, 5.4 task/s, elapsed: 1s, ETA:    73s[                                 ] 7/398, 5.8 task/s, elapsed: 1s, ETA:    67s[                                 ] 8/398, 6.2 task/s, elapsed: 1s, ETA:    63s[                                 ] 9/398, 6.6 task/s, elapsed: 1s, ETA:    59s[                                ] 10/398, 6.9 task/s, elapsed: 1s, ETA:    56s[                                ] 11/398, 7.2 task/s, elapsed: 2s, ETA:    54s[                                ] 12/398, 7.4 task/s, elapsed: 2s, ETA:    52s[>                               ] 13/398, 7.6 task/s, elapsed: 2s, ETA:    50s[>                               ] 14/398, 7.8 task/s, elapsed: 2s, ETA:    49s[>                               ] 15/398, 8.0 task/s, elapsed: 2s, ETA:    48s[>                               ] 16/398, 8.2 task/s, elapsed: 2s, ETA:    47s[>                               ] 17/398, 8.3 task/s, elapsed: 2s, ETA:    46s[>                               ] 18/398, 8.5 task/s, elapsed: 2s, ETA:    45s[>                               ] 19/398, 8.6 task/s, elapsed: 2s, ETA:    44s[>                               ] 20/398, 8.7 task/s, elapsed: 2s, ETA:    43s[>                               ] 21/398, 8.8 task/s, elapsed: 2s, ETA:    43s[>                               ] 22/398, 8.9 task/s, elapsed: 2s, ETA:    42s[>                               ] 23/398, 9.0 task/s, elapsed: 3s, ETA:    42s[>                               ] 24/398, 9.1 task/s, elapsed: 3s, ETA:    41s[>>                              ] 25/398, 9.2 task/s, elapsed: 3s, ETA:    41s[>>                              ] 26/398, 9.3 task/s, elapsed: 3s, ETA:    40s[>>                              ] 27/398, 9.3 task/s, elapsed: 3s, ETA:    40s[>>                              ] 28/398, 9.4 task/s, elapsed: 3s, ETA:    39s[>>                              ] 29/398, 9.5 task/s, elapsed: 3s, ETA:    39s[>>                              ] 30/398, 9.6 task/s, elapsed: 3s, ETA:    38s[>>                              ] 31/398, 9.6 task/s, elapsed: 3s, ETA:    38s[>>                              ] 32/398, 9.7 task/s, elapsed: 3s, ETA:    38s[>>                              ] 33/398, 9.8 task/s, elapsed: 3s, ETA:    37s[>>                              ] 34/398, 9.8 task/s, elapsed: 3s, ETA:    37s[>>                              ] 35/398, 9.9 task/s, elapsed: 4s, ETA:    37s[>>                              ] 36/398, 9.9 task/s, elapsed: 4s, ETA:    37s[>>                             ] 37/398, 10.0 task/s, elapsed: 4s, ETA:    36s[>>                             ] 38/398, 10.0 task/s, elapsed: 4s, ETA:    36s[>>>                            ] 39/398, 10.1 task/s, elapsed: 4s, ETA:    36s[>>>                            ] 40/398, 10.1 task/s, elapsed: 4s, ETA:    35s[>>>                            ] 41/398, 10.1 task/s, elapsed: 4s, ETA:    35s[>>>                            ] 42/398, 10.2 task/s, elapsed: 4s, ETA:    35s[>>>                            ] 43/398, 10.2 task/s, elapsed: 4s, ETA:    35s[>>>                            ] 44/398, 10.2 task/s, elapsed: 4s, ETA:    35s[>>>                            ] 45/398, 10.2 task/s, elapsed: 4s, ETA:    35s[>>>                            ] 46/398, 10.3 task/s, elapsed: 4s, ETA:    34s[>>>                            ] 47/398, 10.3 task/s, elapsed: 5s, ETA:    34s[>>>                            ] 48/398, 10.3 task/s, elapsed: 5s, ETA:    34s[>>>                            ] 49/398, 10.3 task/s, elapsed: 5s, ETA:    34s[>>>                            ] 50/398, 10.3 task/s, elapsed: 5s, ETA:    34s[>>>                            ] 51/398, 10.4 task/s, elapsed: 5s, ETA:    33s[>>>>                           ] 52/398, 10.4 task/s, elapsed: 5s, ETA:    33s[>>>>                           ] 53/398, 10.4 task/s, elapsed: 5s, ETA:    33s[>>>>                           ] 54/398, 10.5 task/s, elapsed: 5s, ETA:    33s[>>>>                           ] 55/398, 10.5 task/s, elapsed: 5s, ETA:    33s[>>>>                           ] 56/398, 10.5 task/s, elapsed: 5s, ETA:    33s[>>>>                           ] 57/398, 10.5 task/s, elapsed: 5s, ETA:    32s[>>>>                           ] 58/398, 10.5 task/s, elapsed: 5s, ETA:    32s[>>>>                           ] 59/398, 10.5 task/s, elapsed: 6s, ETA:    32s[>>>>                           ] 60/398, 10.5 task/s, elapsed: 6s, ETA:    32s[>>>>                           ] 61/398, 10.6 task/s, elapsed: 6s, ETA:    32s[>>>>                           ] 62/398, 10.6 task/s, elapsed: 6s, ETA:    32s[>>>>                           ] 63/398, 10.6 task/s, elapsed: 6s, ETA:    32s[>>>>                           ] 64/398, 10.6 task/s, elapsed: 6s, ETA:    31s[>>>>>                          ] 65/398, 10.6 task/s, elapsed: 6s, ETA:    31s[>>>>>                          ] 66/398, 10.7 task/s, elapsed: 6s, ETA:    31s[>>>>>                          ] 67/398, 10.7 task/s, elapsed: 6s, ETA:    31s[>>>>>                          ] 68/398, 10.7 task/s, elapsed: 6s, ETA:    31s[>>>>>                          ] 69/398, 10.7 task/s, elapsed: 6s, ETA:    31s[>>>>>                          ] 70/398, 10.7 task/s, elapsed: 7s, ETA:    31s[>>>>>                          ] 71/398, 10.8 task/s, elapsed: 7s, ETA:    30s[>>>>>                          ] 72/398, 10.8 task/s, elapsed: 7s, ETA:    30s[>>>>>                          ] 73/398, 10.8 task/s, elapsed: 7s, ETA:    30s[>>>>>                          ] 74/398, 10.8 task/s, elapsed: 7s, ETA:    30s[>>>>>                          ] 75/398, 10.8 task/s, elapsed: 7s, ETA:    30s[>>>>>                          ] 76/398, 10.8 task/s, elapsed: 7s, ETA:    30s[>>>>>                          ] 77/398, 10.8 task/s, elapsed: 7s, ETA:    30s[>>>>>>                         ] 78/398, 10.8 task/s, elapsed: 7s, ETA:    30s[>>>>>>                         ] 79/398, 10.9 task/s, elapsed: 7s, ETA:    29s[>>>>>>                         ] 80/398, 10.9 task/s, elapsed: 7s, ETA:    29s[>>>>>>                         ] 81/398, 10.9 task/s, elapsed: 7s, ETA:    29s[>>>>>>                         ] 82/398, 10.9 task/s, elapsed: 8s, ETA:    29s[>>>>>>                         ] 83/398, 10.9 task/s, elapsed: 8s, ETA:    29s[>>>>>>                         ] 84/398, 10.9 task/s, elapsed: 8s, ETA:    29s[>>>>>>                         ] 85/398, 10.9 task/s, elapsed: 8s, ETA:    29s[>>>>>>                         ] 86/398, 10.9 task/s, elapsed: 8s, ETA:    28s[>>>>>>                         ] 87/398, 10.9 task/s, elapsed: 8s, ETA:    28s[>>>>>>                         ] 88/398, 11.0 task/s, elapsed: 8s, ETA:    28s[>>>>>>                         ] 89/398, 11.0 task/s, elapsed: 8s, ETA:    28s[>>>>>>>                        ] 90/398, 11.0 task/s, elapsed: 8s, ETA:    28s[>>>>>>>                        ] 91/398, 11.0 task/s, elapsed: 8s, ETA:    28s[>>>>>>>                        ] 92/398, 11.0 task/s, elapsed: 8s, ETA:    28s[>>>>>>>                        ] 93/398, 11.0 task/s, elapsed: 8s, ETA:    28s[>>>>>>>                        ] 94/398, 11.0 task/s, elapsed: 9s, ETA:    28s[>>>>>>>                        ] 95/398, 11.0 task/s, elapsed: 9s, ETA:    28s[>>>>>>>                        ] 96/398, 11.0 task/s, elapsed: 9s, ETA:    27s[>>>>>>>                        ] 97/398, 11.0 task/s, elapsed: 9s, ETA:    27s[>>>>>>>                        ] 98/398, 11.0 task/s, elapsed: 9s, ETA:    27s[>>>>>>>                        ] 99/398, 11.0 task/s, elapsed: 9s, ETA:    27s[>>>>>>>                       ] 100/398, 11.0 task/s, elapsed: 9s, ETA:    27s[>>>>>>>                       ] 101/398, 11.0 task/s, elapsed: 9s, ETA:    27s[>>>>>>>                       ] 102/398, 11.0 task/s, elapsed: 9s, ETA:    27s[>>>>>>>                       ] 103/398, 11.0 task/s, elapsed: 9s, ETA:    27s[>>>>>>>                       ] 104/398, 11.0 task/s, elapsed: 9s, ETA:    27s[>>>>>>>                      ] 105/398, 11.0 task/s, elapsed: 10s, ETA:    27s[>>>>>>>                      ] 106/398, 11.1 task/s, elapsed: 10s, ETA:    26s[>>>>>>>                      ] 107/398, 11.1 task/s, elapsed: 10s, ETA:    26s[>>>>>>>                      ] 108/398, 11.1 task/s, elapsed: 10s, ETA:    26s[>>>>>>>                      ] 109/398, 11.1 task/s, elapsed: 10s, ETA:    26s[>>>>>>>>                     ] 110/398, 11.1 task/s, elapsed: 10s, ETA:    26s[>>>>>>>>                     ] 111/398, 11.1 task/s, elapsed: 10s, ETA:    26s[>>>>>>>>                     ] 112/398, 11.1 task/s, elapsed: 10s, ETA:    26s[>>>>>>>>                     ] 113/398, 11.1 task/s, elapsed: 10s, ETA:    26s[>>>>>>>>                     ] 114/398, 11.1 task/s, elapsed: 10s, ETA:    26s[>>>>>>>>                     ] 115/398, 11.1 task/s, elapsed: 10s, ETA:    25s[>>>>>>>>                     ] 116/398, 11.1 task/s, elapsed: 10s, ETA:    25s[>>>>>>>>                     ] 117/398, 11.1 task/s, elapsed: 11s, ETA:    25s[>>>>>>>>                     ] 118/398, 11.1 task/s, elapsed: 11s, ETA:    25s[>>>>>>>>                     ] 119/398, 11.1 task/s, elapsed: 11s, ETA:    25s[>>>>>>>>                     ] 120/398, 11.1 task/s, elapsed: 11s, ETA:    25s[>>>>>>>>                     ] 121/398, 11.1 task/s, elapsed: 11s, ETA:    25s[>>>>>>>>                     ] 122/398, 11.2 task/s, elapsed: 11s, ETA:    25s[>>>>>>>>                     ] 123/398, 11.2 task/s, elapsed: 11s, ETA:    25s[>>>>>>>>>                    ] 124/398, 11.2 task/s, elapsed: 11s, ETA:    25s[>>>>>>>>>                    ] 125/398, 11.2 task/s, elapsed: 11s, ETA:    24s[>>>>>>>>>                    ] 126/398, 11.2 task/s, elapsed: 11s, ETA:    24s[>>>>>>>>>                    ] 127/398, 11.2 task/s, elapsed: 11s, ETA:    24s[>>>>>>>>>                    ] 128/398, 11.2 task/s, elapsed: 11s, ETA:    24s[>>>>>>>>>                    ] 129/398, 11.2 task/s, elapsed: 12s, ETA:    24s[>>>>>>>>>                    ] 130/398, 11.2 task/s, elapsed: 12s, ETA:    24s[>>>>>>>>>                    ] 131/398, 11.2 task/s, elapsed: 12s, ETA:    24s[>>>>>>>>>                    ] 132/398, 11.2 task/s, elapsed: 12s, ETA:    24s[>>>>>>>>>                    ] 133/398, 11.2 task/s, elapsed: 12s, ETA:    24s[>>>>>>>>>                    ] 134/398, 11.2 task/s, elapsed: 12s, ETA:    24s[>>>>>>>>>                    ] 135/398, 11.2 task/s, elapsed: 12s, ETA:    23s[>>>>>>>>>                    ] 136/398, 11.2 task/s, elapsed: 12s, ETA:    23s[>>>>>>>>>                    ] 137/398, 11.2 task/s, elapsed: 12s, ETA:    23s[>>>>>>>>>>                   ] 138/398, 11.3 task/s, elapsed: 12s, ETA:    23s[>>>>>>>>>>                   ] 139/398, 11.3 task/s, elapsed: 12s, ETA:    23s[>>>>>>>>>>                   ] 140/398, 11.3 task/s, elapsed: 12s, ETA:    23s[>>>>>>>>>>                   ] 141/398, 11.3 task/s, elapsed: 13s, ETA:    23s[>>>>>>>>>>                   ] 142/398, 11.3 task/s, elapsed: 13s, ETA:    23s[>>>>>>>>>>                   ] 143/398, 11.3 task/s, elapsed: 13s, ETA:    23s[>>>>>>>>>>                   ] 144/398, 11.3 task/s, elapsed: 13s, ETA:    22s[>>>>>>>>>>                   ] 145/398, 11.3 task/s, elapsed: 13s, ETA:    22s[>>>>>>>>>>                   ] 146/398, 11.3 task/s, elapsed: 13s, ETA:    22s[>>>>>>>>>>                   ] 147/398, 11.3 task/s, elapsed: 13s, ETA:    22s[>>>>>>>>>>                   ] 148/398, 11.3 task/s, elapsed: 13s, ETA:    22s[>>>>>>>>>>                   ] 149/398, 11.3 task/s, elapsed: 13s, ETA:    22s[>>>>>>>>>>                   ] 150/398, 11.3 task/s, elapsed: 13s, ETA:    22s[>>>>>>>>>>>                  ] 151/398, 11.3 task/s, elapsed: 13s, ETA:    22s[>>>>>>>>>>>                  ] 152/398, 11.3 task/s, elapsed: 13s, ETA:    22s[>>>>>>>>>>>                  ] 153/398, 11.3 task/s, elapsed: 13s, ETA:    22s[>>>>>>>>>>>                  ] 154/398, 11.4 task/s, elapsed: 14s, ETA:    21s[>>>>>>>>>>>                  ] 155/398, 11.4 task/s, elapsed: 14s, ETA:    21s[>>>>>>>>>>>                  ] 156/398, 11.4 task/s, elapsed: 14s, ETA:    21s[>>>>>>>>>>>                  ] 157/398, 11.4 task/s, elapsed: 14s, ETA:    21s[>>>>>>>>>>>                  ] 158/398, 11.4 task/s, elapsed: 14s, ETA:    21s[>>>>>>>>>>>                  ] 159/398, 11.4 task/s, elapsed: 14s, ETA:    21s[>>>>>>>>>>>                  ] 160/398, 11.4 task/s, elapsed: 14s, ETA:    21s[>>>>>>>>>>>                  ] 161/398, 11.4 task/s, elapsed: 14s, ETA:    21s[>>>>>>>>>>>                  ] 162/398, 11.4 task/s, elapsed: 14s, ETA:    21s[>>>>>>>>>>>                  ] 163/398, 11.4 task/s, elapsed: 14s, ETA:    21s[>>>>>>>>>>>                  ] 164/398, 11.4 task/s, elapsed: 14s, ETA:    21s[>>>>>>>>>>>>                 ] 165/398, 11.4 task/s, elapsed: 14s, ETA:    20s[>>>>>>>>>>>>                 ] 166/398, 11.4 task/s, elapsed: 15s, ETA:    20s[>>>>>>>>>>>>                 ] 167/398, 11.4 task/s, elapsed: 15s, ETA:    20s[>>>>>>>>>>>>                 ] 168/398, 11.4 task/s, elapsed: 15s, ETA:    20s[>>>>>>>>>>>>                 ] 169/398, 11.4 task/s, elapsed: 15s, ETA:    20s[>>>>>>>>>>>>                 ] 170/398, 11.4 task/s, elapsed: 15s, ETA:    20s[>>>>>>>>>>>>                 ] 171/398, 11.4 task/s, elapsed: 15s, ETA:    20s[>>>>>>>>>>>>                 ] 172/398, 11.4 task/s, elapsed: 15s, ETA:    20s[>>>>>>>>>>>>                 ] 173/398, 11.5 task/s, elapsed: 15s, ETA:    20s[>>>>>>>>>>>>                 ] 174/398, 11.5 task/s, elapsed: 15s, ETA:    20s[>>>>>>>>>>>>                 ] 175/398, 11.5 task/s, elapsed: 15s, ETA:    19s[>>>>>>>>>>>>                 ] 176/398, 11.5 task/s, elapsed: 15s, ETA:    19s[>>>>>>>>>>>>                 ] 177/398, 11.5 task/s, elapsed: 15s, ETA:    19s[>>>>>>>>>>>>                 ] 178/398, 11.5 task/s, elapsed: 16s, ETA:    19s[>>>>>>>>>>>>>                ] 179/398, 11.5 task/s, elapsed: 16s, ETA:    19s[>>>>>>>>>>>>>                ] 180/398, 11.5 task/s, elapsed: 16s, ETA:    19s[>>>>>>>>>>>>>                ] 181/398, 11.5 task/s, elapsed: 16s, ETA:    19s[>>>>>>>>>>>>>                ] 182/398, 11.5 task/s, elapsed: 16s, ETA:    19s[>>>>>>>>>>>>>                ] 183/398, 11.5 task/s, elapsed: 16s, ETA:    19s[>>>>>>>>>>>>>                ] 184/398, 11.5 task/s, elapsed: 16s, ETA:    19s[>>>>>>>>>>>>>                ] 185/398, 11.5 task/s, elapsed: 16s, ETA:    19s[>>>>>>>>>>>>>                ] 186/398, 11.5 task/s, elapsed: 16s, ETA:    18s[>>>>>>>>>>>>>                ] 187/398, 11.5 task/s, elapsed: 16s, ETA:    18s[>>>>>>>>>>>>>                ] 188/398, 11.5 task/s, elapsed: 16s, ETA:    18s[>>>>>>>>>>>>>                ] 189/398, 11.5 task/s, elapsed: 16s, ETA:    18s[>>>>>>>>>>>>>                ] 190/398, 11.5 task/s, elapsed: 16s, ETA:    18s[>>>>>>>>>>>>>                ] 191/398, 11.5 task/s, elapsed: 17s, ETA:    18s[>>>>>>>>>>>>>                ] 192/398, 11.5 task/s, elapsed: 17s, ETA:    18s[>>>>>>>>>>>>>>               ] 193/398, 11.5 task/s, elapsed: 17s, ETA:    18s[>>>>>>>>>>>>>>               ] 194/398, 11.5 task/s, elapsed: 17s, ETA:    18s[>>>>>>>>>>>>>>               ] 195/398, 11.5 task/s, elapsed: 17s, ETA:    18s[>>>>>>>>>>>>>>               ] 196/398, 11.5 task/s, elapsed: 17s, ETA:    17s[>>>>>>>>>>>>>>               ] 197/398, 11.6 task/s, elapsed: 17s, ETA:    17s[>>>>>>>>>>>>>>               ] 198/398, 11.6 task/s, elapsed: 17s, ETA:    17s[>>>>>>>>>>>>>>               ] 199/398, 11.6 task/s, elapsed: 17s, ETA:    17s[>>>>>>>>>>>>>>               ] 200/398, 11.6 task/s, elapsed: 17s, ETA:    17s[>>>>>>>>>>>>>>               ] 201/398, 11.6 task/s, elapsed: 17s, ETA:    17s[>>>>>>>>>>>>>>               ] 202/398, 11.6 task/s, elapsed: 17s, ETA:    17s[>>>>>>>>>>>>>>               ] 203/398, 11.6 task/s, elapsed: 18s, ETA:    17s[>>>>>>>>>>>>>>               ] 204/398, 11.6 task/s, elapsed: 18s, ETA:    17s[>>>>>>>>>>>>>>               ] 205/398, 11.6 task/s, elapsed: 18s, ETA:    17s[>>>>>>>>>>>>>>>              ] 206/398, 11.6 task/s, elapsed: 18s, ETA:    17s[>>>>>>>>>>>>>>>              ] 207/398, 11.6 task/s, elapsed: 18s, ETA:    16s[>>>>>>>>>>>>>>>              ] 208/398, 11.6 task/s, elapsed: 18s, ETA:    16s[>>>>>>>>>>>>>>>              ] 209/398, 11.6 task/s, elapsed: 18s, ETA:    16s[>>>>>>>>>>>>>>>              ] 210/398, 11.6 task/s, elapsed: 18s, ETA:    16s[>>>>>>>>>>>>>>>              ] 211/398, 11.6 task/s, elapsed: 18s, ETA:    16s[>>>>>>>>>>>>>>>              ] 212/398, 11.6 task/s, elapsed: 18s, ETA:    16s[>>>>>>>>>>>>>>>              ] 213/398, 11.6 task/s, elapsed: 18s, ETA:    16s[>>>>>>>>>>>>>>>              ] 214/398, 11.6 task/s, elapsed: 18s, ETA:    16s[>>>>>>>>>>>>>>>              ] 215/398, 11.6 task/s, elapsed: 19s, ETA:    16s[>>>>>>>>>>>>>>>              ] 216/398, 11.6 task/s, elapsed: 19s, ETA:    16s[>>>>>>>>>>>>>>>              ] 217/398, 11.6 task/s, elapsed: 19s, ETA:    16s[>>>>>>>>>>>>>>>              ] 218/398, 11.6 task/s, elapsed: 19s, ETA:    15s[>>>>>>>>>>>>>>>              ] 219/398, 11.6 task/s, elapsed: 19s, ETA:    15s[>>>>>>>>>>>>>>>>             ] 220/398, 11.6 task/s, elapsed: 19s, ETA:    15s[>>>>>>>>>>>>>>>>             ] 221/398, 11.6 task/s, elapsed: 19s, ETA:    15s[>>>>>>>>>>>>>>>>             ] 222/398, 11.6 task/s, elapsed: 19s, ETA:    15s[>>>>>>>>>>>>>>>>             ] 223/398, 11.6 task/s, elapsed: 19s, ETA:    15s[>>>>>>>>>>>>>>>>             ] 224/398, 11.6 task/s, elapsed: 19s, ETA:    15s[>>>>>>>>>>>>>>>>             ] 225/398, 11.6 task/s, elapsed: 19s, ETA:    15s[>>>>>>>>>>>>>>>>             ] 226/398, 11.6 task/s, elapsed: 19s, ETA:    15s[>>>>>>>>>>>>>>>>             ] 227/398, 11.6 task/s, elapsed: 19s, ETA:    15s[>>>>>>>>>>>>>>>>             ] 228/398, 11.6 task/s, elapsed: 20s, ETA:    15s[>>>>>>>>>>>>>>>>             ] 229/398, 11.6 task/s, elapsed: 20s, ETA:    15s[>>>>>>>>>>>>>>>>             ] 230/398, 11.7 task/s, elapsed: 20s, ETA:    14s[>>>>>>>>>>>>>>>>             ] 231/398, 11.7 task/s, elapsed: 20s, ETA:    14s[>>>>>>>>>>>>>>>>             ] 232/398, 11.7 task/s, elapsed: 20s, ETA:    14s[>>>>>>>>>>>>>>>>             ] 233/398, 11.7 task/s, elapsed: 20s, ETA:    14s[>>>>>>>>>>>>>>>>>            ] 234/398, 11.7 task/s, elapsed: 20s, ETA:    14s[>>>>>>>>>>>>>>>>>            ] 235/398, 11.7 task/s, elapsed: 20s, ETA:    14s[>>>>>>>>>>>>>>>>>            ] 236/398, 11.7 task/s, elapsed: 20s, ETA:    14s[>>>>>>>>>>>>>>>>>            ] 237/398, 11.7 task/s, elapsed: 20s, ETA:    14s[>>>>>>>>>>>>>>>>>            ] 238/398, 11.7 task/s, elapsed: 20s, ETA:    14s[>>>>>>>>>>>>>>>>>            ] 239/398, 11.7 task/s, elapsed: 21s, ETA:    14s[>>>>>>>>>>>>>>>>>            ] 240/398, 11.7 task/s, elapsed: 21s, ETA:    14s[>>>>>>>>>>>>>>>>>            ] 241/398, 11.7 task/s, elapsed: 21s, ETA:    13s[>>>>>>>>>>>>>>>>>            ] 242/398, 11.6 task/s, elapsed: 21s, ETA:    13s[>>>>>>>>>>>>>>>>>            ] 243/398, 11.6 task/s, elapsed: 21s, ETA:    13s[>>>>>>>>>>>>>>>>>            ] 244/398, 11.6 task/s, elapsed: 21s, ETA:    13s[>>>>>>>>>>>>>>>>>            ] 245/398, 11.6 task/s, elapsed: 21s, ETA:    13s[>>>>>>>>>>>>>>>>>            ] 246/398, 11.6 task/s, elapsed: 21s, ETA:    13s[>>>>>>>>>>>>>>>>>            ] 247/398, 11.6 task/s, elapsed: 21s, ETA:    13s[>>>>>>>>>>>>>>>>>>           ] 248/398, 11.7 task/s, elapsed: 21s, ETA:    13s[>>>>>>>>>>>>>>>>>>           ] 249/398, 11.7 task/s, elapsed: 21s, ETA:    13s[>>>>>>>>>>>>>>>>>>           ] 250/398, 11.7 task/s, elapsed: 21s, ETA:    13s[>>>>>>>>>>>>>>>>>>           ] 251/398, 11.7 task/s, elapsed: 22s, ETA:    13s[>>>>>>>>>>>>>>>>>>           ] 252/398, 11.7 task/s, elapsed: 22s, ETA:    13s[>>>>>>>>>>>>>>>>>>           ] 253/398, 11.7 task/s, elapsed: 22s, ETA:    12s[>>>>>>>>>>>>>>>>>>           ] 254/398, 11.7 task/s, elapsed: 22s, ETA:    12s[>>>>>>>>>>>>>>>>>>           ] 255/398, 11.7 task/s, elapsed: 22s, ETA:    12s[>>>>>>>>>>>>>>>>>>           ] 256/398, 11.7 task/s, elapsed: 22s, ETA:    12s[>>>>>>>>>>>>>>>>>>           ] 257/398, 11.7 task/s, elapsed: 22s, ETA:    12s[>>>>>>>>>>>>>>>>>>           ] 258/398, 11.7 task/s, elapsed: 22s, ETA:    12s[>>>>>>>>>>>>>>>>>>           ] 259/398, 11.7 task/s, elapsed: 22s, ETA:    12s[>>>>>>>>>>>>>>>>>>           ] 260/398, 11.7 task/s, elapsed: 22s, ETA:    12s[>>>>>>>>>>>>>>>>>>>          ] 261/398, 11.7 task/s, elapsed: 22s, ETA:    12s[>>>>>>>>>>>>>>>>>>>          ] 262/398, 11.7 task/s, elapsed: 22s, ETA:    12s[>>>>>>>>>>>>>>>>>>>          ] 263/398, 11.7 task/s, elapsed: 23s, ETA:    12s[>>>>>>>>>>>>>>>>>>>          ] 264/398, 11.7 task/s, elapsed: 23s, ETA:    11s[>>>>>>>>>>>>>>>>>>>          ] 265/398, 11.7 task/s, elapsed: 23s, ETA:    11s[>>>>>>>>>>>>>>>>>>>          ] 266/398, 11.7 task/s, elapsed: 23s, ETA:    11s[>>>>>>>>>>>>>>>>>>>          ] 267/398, 11.7 task/s, elapsed: 23s, ETA:    11s[>>>>>>>>>>>>>>>>>>>          ] 268/398, 11.7 task/s, elapsed: 23s, ETA:    11s[>>>>>>>>>>>>>>>>>>>          ] 269/398, 11.7 task/s, elapsed: 23s, ETA:    11s[>>>>>>>>>>>>>>>>>>>          ] 270/398, 11.7 task/s, elapsed: 23s, ETA:    11s[>>>>>>>>>>>>>>>>>>>          ] 271/398, 11.7 task/s, elapsed: 23s, ETA:    11s[>>>>>>>>>>>>>>>>>>>          ] 272/398, 11.7 task/s, elapsed: 23s, ETA:    11s[>>>>>>>>>>>>>>>>>>>          ] 273/398, 11.7 task/s, elapsed: 23s, ETA:    11s[>>>>>>>>>>>>>>>>>>>          ] 274/398, 11.7 task/s, elapsed: 23s, ETA:    11s[>>>>>>>>>>>>>>>>>>>>         ] 275/398, 11.7 task/s, elapsed: 23s, ETA:    11s[>>>>>>>>>>>>>>>>>>>>         ] 276/398, 11.7 task/s, elapsed: 24s, ETA:    10s[>>>>>>>>>>>>>>>>>>>>         ] 277/398, 11.7 task/s, elapsed: 24s, ETA:    10s[>>>>>>>>>>>>>>>>>>>>         ] 278/398, 11.7 task/s, elapsed: 24s, ETA:    10s[>>>>>>>>>>>>>>>>>>>>         ] 279/398, 11.7 task/s, elapsed: 24s, ETA:    10s[>>>>>>>>>>>>>>>>>>>>         ] 280/398, 11.7 task/s, elapsed: 24s, ETA:    10s[>>>>>>>>>>>>>>>>>>>>         ] 281/398, 11.7 task/s, elapsed: 24s, ETA:    10s[>>>>>>>>>>>>>>>>>>>>         ] 282/398, 11.7 task/s, elapsed: 24s, ETA:    10s[>>>>>>>>>>>>>>>>>>>>         ] 283/398, 11.7 task/s, elapsed: 24s, ETA:    10s[>>>>>>>>>>>>>>>>>>>>         ] 284/398, 11.7 task/s, elapsed: 24s, ETA:    10s[>>>>>>>>>>>>>>>>>>>>         ] 285/398, 11.7 task/s, elapsed: 24s, ETA:    10s[>>>>>>>>>>>>>>>>>>>>         ] 286/398, 11.7 task/s, elapsed: 24s, ETA:    10s[>>>>>>>>>>>>>>>>>>>>         ] 287/398, 11.7 task/s, elapsed: 24s, ETA:     9s[>>>>>>>>>>>>>>>>>>>>         ] 288/398, 11.7 task/s, elapsed: 25s, ETA:     9s[>>>>>>>>>>>>>>>>>>>>>        ] 289/398, 11.7 task/s, elapsed: 25s, ETA:     9s[>>>>>>>>>>>>>>>>>>>>>        ] 290/398, 11.7 task/s, elapsed: 25s, ETA:     9s[>>>>>>>>>>>>>>>>>>>>>        ] 291/398, 11.7 task/s, elapsed: 25s, ETA:     9s[>>>>>>>>>>>>>>>>>>>>>        ] 292/398, 11.7 task/s, elapsed: 25s, ETA:     9s[>>>>>>>>>>>>>>>>>>>>>        ] 293/398, 11.7 task/s, elapsed: 25s, ETA:     9s[>>>>>>>>>>>>>>>>>>>>>        ] 294/398, 11.7 task/s, elapsed: 25s, ETA:     9s[>>>>>>>>>>>>>>>>>>>>>        ] 295/398, 11.7 task/s, elapsed: 25s, ETA:     9s[>>>>>>>>>>>>>>>>>>>>>        ] 296/398, 11.7 task/s, elapsed: 25s, ETA:     9s[>>>>>>>>>>>>>>>>>>>>>        ] 297/398, 11.7 task/s, elapsed: 25s, ETA:     9s[>>>>>>>>>>>>>>>>>>>>>        ] 298/398, 11.7 task/s, elapsed: 25s, ETA:     9s[>>>>>>>>>>>>>>>>>>>>>        ] 299/398, 11.7 task/s, elapsed: 25s, ETA:     8s[>>>>>>>>>>>>>>>>>>>>>        ] 300/398, 11.7 task/s, elapsed: 26s, ETA:     8s[>>>>>>>>>>>>>>>>>>>>>        ] 301/398, 11.7 task/s, elapsed: 26s, ETA:     8s[>>>>>>>>>>>>>>>>>>>>>>       ] 302/398, 11.7 task/s, elapsed: 26s, ETA:     8s[>>>>>>>>>>>>>>>>>>>>>>       ] 303/398, 11.7 task/s, elapsed: 26s, ETA:     8s[>>>>>>>>>>>>>>>>>>>>>>       ] 304/398, 11.7 task/s, elapsed: 26s, ETA:     8s[>>>>>>>>>>>>>>>>>>>>>>       ] 305/398, 11.7 task/s, elapsed: 26s, ETA:     8s[>>>>>>>>>>>>>>>>>>>>>>       ] 306/398, 11.7 task/s, elapsed: 26s, ETA:     8s[>>>>>>>>>>>>>>>>>>>>>>       ] 307/398, 11.7 task/s, elapsed: 26s, ETA:     8s[>>>>>>>>>>>>>>>>>>>>>>       ] 308/398, 11.7 task/s, elapsed: 26s, ETA:     8s[>>>>>>>>>>>>>>>>>>>>>>       ] 309/398, 11.7 task/s, elapsed: 26s, ETA:     8s[>>>>>>>>>>>>>>>>>>>>>>       ] 310/398, 11.7 task/s, elapsed: 26s, ETA:     8s[>>>>>>>>>>>>>>>>>>>>>>       ] 311/398, 11.7 task/s, elapsed: 27s, ETA:     7s[>>>>>>>>>>>>>>>>>>>>>>       ] 312/398, 11.7 task/s, elapsed: 27s, ETA:     7s[>>>>>>>>>>>>>>>>>>>>>>       ] 313/398, 11.7 task/s, elapsed: 27s, ETA:     7s[>>>>>>>>>>>>>>>>>>>>>>       ] 314/398, 11.7 task/s, elapsed: 27s, ETA:     7s[>>>>>>>>>>>>>>>>>>>>>>       ] 315/398, 11.7 task/s, elapsed: 27s, ETA:     7s[>>>>>>>>>>>>>>>>>>>>>>>      ] 316/398, 11.7 task/s, elapsed: 27s, ETA:     7s[>>>>>>>>>>>>>>>>>>>>>>>      ] 317/398, 11.7 task/s, elapsed: 27s, ETA:     7s[>>>>>>>>>>>>>>>>>>>>>>>      ] 318/398, 11.7 task/s, elapsed: 27s, ETA:     7s[>>>>>>>>>>>>>>>>>>>>>>>      ] 319/398, 11.7 task/s, elapsed: 27s, ETA:     7s[>>>>>>>>>>>>>>>>>>>>>>>      ] 320/398, 11.7 task/s, elapsed: 27s, ETA:     7s[>>>>>>>>>>>>>>>>>>>>>>>      ] 321/398, 11.7 task/s, elapsed: 27s, ETA:     7s[>>>>>>>>>>>>>>>>>>>>>>>      ] 322/398, 11.7 task/s, elapsed: 27s, ETA:     6s[>>>>>>>>>>>>>>>>>>>>>>>      ] 323/398, 11.7 task/s, elapsed: 28s, ETA:     6s[>>>>>>>>>>>>>>>>>>>>>>>      ] 324/398, 11.7 task/s, elapsed: 28s, ETA:     6s[>>>>>>>>>>>>>>>>>>>>>>>      ] 325/398, 11.7 task/s, elapsed: 28s, ETA:     6s[>>>>>>>>>>>>>>>>>>>>>>>      ] 326/398, 11.7 task/s, elapsed: 28s, ETA:     6s[>>>>>>>>>>>>>>>>>>>>>>>      ] 327/398, 11.7 task/s, elapsed: 28s, ETA:     6s[>>>>>>>>>>>>>>>>>>>>>>>      ] 328/398, 11.7 task/s, elapsed: 28s, ETA:     6s[>>>>>>>>>>>>>>>>>>>>>>>      ] 329/398, 11.7 task/s, elapsed: 28s, ETA:     6s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 330/398, 11.7 task/s, elapsed: 28s, ETA:     6s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 331/398, 11.7 task/s, elapsed: 28s, ETA:     6s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 332/398, 11.7 task/s, elapsed: 28s, ETA:     6s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 333/398, 11.7 task/s, elapsed: 28s, ETA:     6s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 334/398, 11.7 task/s, elapsed: 28s, ETA:     5s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 335/398, 11.7 task/s, elapsed: 29s, ETA:     5s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 336/398, 11.7 task/s, elapsed: 29s, ETA:     5s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 337/398, 11.7 task/s, elapsed: 29s, ETA:     5s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 338/398, 11.7 task/s, elapsed: 29s, ETA:     5s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 339/398, 11.7 task/s, elapsed: 29s, ETA:     5s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 340/398, 11.7 task/s, elapsed: 29s, ETA:     5s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 341/398, 11.7 task/s, elapsed: 29s, ETA:     5s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 342/398, 11.7 task/s, elapsed: 29s, ETA:     5s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 343/398, 11.7 task/s, elapsed: 29s, ETA:     5s[>>>>>>>>>>>>>>>>>>>>>>>>>    ] 344/398, 11.7 task/s, elapsed: 29s, ETA:     5s[>>>>>>>>>>>>>>>>>>>>>>>>>    ] 345/398, 11.7 task/s, elapsed: 29s, ETA:     5s[>>>>>>>>>>>>>>>>>>>>>>>>>    ] 346/398, 11.7 task/s, elapsed: 29s, ETA:     4s[>>>>>>>>>>>>>>>>>>>>>>>>>    ] 347/398, 11.7 task/s, elapsed: 30s, ETA:     4s[>>>>>>>>>>>>>>>>>>>>>>>>>    ] 348/398, 11.7 task/s, elapsed: 30s, ETA:     4s[>>>>>>>>>>>>>>>>>>>>>>>>>    ] 349/398, 11.7 task/s, elapsed: 30s, ETA:     4s[>>>>>>>>>>>>>>>>>>>>>>>>>    ] 350/398, 11.7 task/s, elapsed: 30s, ETA:     4s[>>>>>>>>>>>>>>>>>>>>>>>>>    ] 351/398, 11.7 task/s, elapsed: 30s, ETA:     4s[>>>>>>>>>>>>>>>>>>>>>>>>>    ] 352/398, 11.7 task/s, elapsed: 30s, ETA:     4s[>>>>>>>>>>>>>>>>>>>>>>>>>    ] 353/398, 11.7 task/s, elapsed: 30s, ETA:     4s[>>>>>>>>>>>>>>>>>>>>>>>>>    ] 354/398, 11.7 task/s, elapsed: 30s, ETA:     4s[>>>>>>>>>>>>>>>>>>>>>>>>>    ] 355/398, 11.7 task/s, elapsed: 30s, ETA:     4s[>>>>>>>>>>>>>>>>>>>>>>>>>    ] 356/398, 11.7 task/s, elapsed: 30s, ETA:     4s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 357/398, 11.7 task/s, elapsed: 30s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 358/398, 11.7 task/s, elapsed: 31s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 359/398, 11.7 task/s, elapsed: 31s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 360/398, 11.7 task/s, elapsed: 31s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 361/398, 11.7 task/s, elapsed: 31s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 362/398, 11.7 task/s, elapsed: 31s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 363/398, 11.7 task/s, elapsed: 31s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 364/398, 11.7 task/s, elapsed: 31s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 365/398, 11.7 task/s, elapsed: 31s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 366/398, 11.7 task/s, elapsed: 31s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 367/398, 11.7 task/s, elapsed: 31s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 368/398, 11.7 task/s, elapsed: 31s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 369/398, 11.7 task/s, elapsed: 31s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 370/398, 11.7 task/s, elapsed: 32s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 371/398, 11.7 task/s, elapsed: 32s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 372/398, 11.7 task/s, elapsed: 32s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 373/398, 11.7 task/s, elapsed: 32s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 374/398, 11.7 task/s, elapsed: 32s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 375/398, 11.7 task/s, elapsed: 32s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 376/398, 11.7 task/s, elapsed: 32s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 377/398, 11.7 task/s, elapsed: 32s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 378/398, 11.7 task/s, elapsed: 32s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 379/398, 11.7 task/s, elapsed: 32s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 380/398, 11.7 task/s, elapsed: 32s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 381/398, 11.7 task/s, elapsed: 32s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 382/398, 11.7 task/s, elapsed: 33s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 383/398, 11.7 task/s, elapsed: 33s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 384/398, 11.7 task/s, elapsed: 33s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 385/398, 11.7 task/s, elapsed: 33s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 386/398, 11.7 task/s, elapsed: 33s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 387/398, 11.7 task/s, elapsed: 33s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 388/398, 11.7 task/s, elapsed: 33s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 389/398, 11.7 task/s, elapsed: 33s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 390/398, 11.7 task/s, elapsed: 33s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 391/398, 11.7 task/s, elapsed: 33s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 392/398, 11.7 task/s, elapsed: 33s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 393/398, 11.7 task/s, elapsed: 33s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 394/398, 11.7 task/s, elapsed: 34s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 395/398, 11.7 task/s, elapsed: 34s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 396/398, 11.7 task/s, elapsed: 34s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 397/398, 11.7 task/s, elapsed: 34s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>] 398/398, 11.7 task/s, elapsed: 34s, ETA:     0s[                                                  ] 0/398, elapsed: 0s, ETA:[                                 ] 1/398, 4.5 task/s, elapsed: 0s, ETA:    88s[                                 ] 2/398, 6.2 task/s, elapsed: 0s, ETA:    64s[                                 ] 3/398, 7.0 task/s, elapsed: 0s, ETA:    57s[                                 ] 4/398, 7.8 task/s, elapsed: 1s, ETA:    50s[                                 ] 5/398, 8.1 task/s, elapsed: 1s, ETA:    49s[                                 ] 6/398, 8.6 task/s, elapsed: 1s, ETA:    46s[                                 ] 7/398, 8.9 task/s, elapsed: 1s, ETA:    44s[                                 ] 8/398, 9.2 task/s, elapsed: 1s, ETA:    42s[                                 ] 9/398, 9.5 task/s, elapsed: 1s, ETA:    41s[                                ] 10/398, 9.7 task/s, elapsed: 1s, ETA:    40s[                                ] 11/398, 9.8 task/s, elapsed: 1s, ETA:    39s[                               ] 12/398, 10.0 task/s, elapsed: 1s, ETA:    39s[>                              ] 13/398, 10.1 task/s, elapsed: 1s, ETA:    38s[>                              ] 14/398, 10.2 task/s, elapsed: 1s, ETA:    38s[>                              ] 15/398, 10.3 task/s, elapsed: 1s, ETA:    37s[>                              ] 16/398, 10.4 task/s, elapsed: 2s, ETA:    37s[>                              ] 17/398, 10.5 task/s, elapsed: 2s, ETA:    36s[>                              ] 18/398, 10.6 task/s, elapsed: 2s, ETA:    36s[>                              ] 19/398, 10.7 task/s, elapsed: 2s, ETA:    36s[>                              ] 20/398, 10.7 task/s, elapsed: 2s, ETA:    35s[>                              ] 21/398, 10.8 task/s, elapsed: 2s, ETA:    35s[>                              ] 22/398, 10.9 task/s, elapsed: 2s, ETA:    35s[>                              ] 23/398, 10.9 task/s, elapsed: 2s, ETA:    34s[>                              ] 24/398, 11.0 task/s, elapsed: 2s, ETA:    34s[>                              ] 25/398, 11.0 task/s, elapsed: 2s, ETA:    34s[>>                             ] 26/398, 11.0 task/s, elapsed: 2s, ETA:    34s[>>                             ] 27/398, 11.1 task/s, elapsed: 2s, ETA:    33s[>>                             ] 28/398, 11.1 task/s, elapsed: 3s, ETA:    33s[>>                             ] 29/398, 11.0 task/s, elapsed: 3s, ETA:    33s[>>                             ] 30/398, 11.0 task/s, elapsed: 3s, ETA:    33s[>>                             ] 31/398, 11.0 task/s, elapsed: 3s, ETA:    33s[>>                             ] 32/398, 11.1 task/s, elapsed: 3s, ETA:    33s[>>                             ] 33/398, 11.1 task/s, elapsed: 3s, ETA:    33s[>>                             ] 34/398, 11.1 task/s, elapsed: 3s, ETA:    33s[>>                             ] 35/398, 11.2 task/s, elapsed: 3s, ETA:    33s[>>                             ] 36/398, 11.2 task/s, elapsed: 3s, ETA:    32s[>>                             ] 37/398, 11.2 task/s, elapsed: 3s, ETA:    32s[>>                             ] 38/398, 11.2 task/s, elapsed: 3s, ETA:    32s[>>>                            ] 39/398, 11.3 task/s, elapsed: 3s, ETA:    32s[>>>                            ] 40/398, 11.3 task/s, elapsed: 4s, ETA:    32s[>>>                            ] 41/398, 11.3 task/s, elapsed: 4s, ETA:    32s[>>>                            ] 42/398, 11.3 task/s, elapsed: 4s, ETA:    31s[>>>                            ] 43/398, 11.4 task/s, elapsed: 4s, ETA:    31s[>>>                            ] 44/398, 11.4 task/s, elapsed: 4s, ETA:    31s[>>>                            ] 45/398, 11.4 task/s, elapsed: 4s, ETA:    31s[>>>                            ] 46/398, 11.4 task/s, elapsed: 4s, ETA:    31s[>>>                            ] 47/398, 11.4 task/s, elapsed: 4s, ETA:    31s[>>>                            ] 48/398, 11.4 task/s, elapsed: 4s, ETA:    31s[>>>                            ] 49/398, 11.4 task/s, elapsed: 4s, ETA:    31s[>>>                            ] 50/398, 11.4 task/s, elapsed: 4s, ETA:    30s[>>>                            ] 51/398, 11.5 task/s, elapsed: 4s, ETA:    30s[>>>>                           ] 52/398, 11.5 task/s, elapsed: 5s, ETA:    30s[>>>>                           ] 53/398, 11.5 task/s, elapsed: 5s, ETA:    30s[>>>>                           ] 54/398, 11.5 task/s, elapsed: 5s, ETA:    30s[>>>>                           ] 55/398, 11.5 task/s, elapsed: 5s, ETA:    30s[>>>>                           ] 56/398, 11.5 task/s, elapsed: 5s, ETA:    30s[>>>>                           ] 57/398, 11.5 task/s, elapsed: 5s, ETA:    30s[>>>>                           ] 58/398, 11.5 task/s, elapsed: 5s, ETA:    29s[>>>>                           ] 59/398, 11.5 task/s, elapsed: 5s, ETA:    29s[>>>>                           ] 60/398, 11.5 task/s, elapsed: 5s, ETA:    29s[>>>>                           ] 61/398, 11.5 task/s, elapsed: 5s, ETA:    29s[>>>>                           ] 62/398, 11.5 task/s, elapsed: 5s, ETA:    29s[>>>>                           ] 63/398, 11.5 task/s, elapsed: 5s, ETA:    29s[>>>>                           ] 64/398, 11.5 task/s, elapsed: 6s, ETA:    29s[>>>>>                          ] 65/398, 11.5 task/s, elapsed: 6s, ETA:    29s[>>>>>                          ] 66/398, 11.5 task/s, elapsed: 6s, ETA:    29s[>>>>>                          ] 67/398, 11.5 task/s, elapsed: 6s, ETA:    29s[>>>>>                          ] 68/398, 11.6 task/s, elapsed: 6s, ETA:    29s[>>>>>                          ] 69/398, 11.6 task/s, elapsed: 6s, ETA:    28s[>>>>>                          ] 70/398, 11.6 task/s, elapsed: 6s, ETA:    28s[>>>>>                          ] 71/398, 11.6 task/s, elapsed: 6s, ETA:    28s[>>>>>                          ] 72/398, 11.6 task/s, elapsed: 6s, ETA:    28s[>>>>>                          ] 73/398, 11.6 task/s, elapsed: 6s, ETA:    28s[>>>>>                          ] 74/398, 11.6 task/s, elapsed: 6s, ETA:    28s[>>>>>                          ] 75/398, 11.6 task/s, elapsed: 6s, ETA:    28s[>>>>>                          ] 76/398, 11.6 task/s, elapsed: 7s, ETA:    28s[>>>>>                          ] 77/398, 11.6 task/s, elapsed: 7s, ETA:    28s[>>>>>>                         ] 78/398, 11.6 task/s, elapsed: 7s, ETA:    28s[>>>>>>                         ] 79/398, 11.6 task/s, elapsed: 7s, ETA:    28s[>>>>>>                         ] 80/398, 11.6 task/s, elapsed: 7s, ETA:    27s[>>>>>>                         ] 81/398, 11.6 task/s, elapsed: 7s, ETA:    27s[>>>>>>                         ] 82/398, 11.6 task/s, elapsed: 7s, ETA:    27s[>>>>>>                         ] 83/398, 11.6 task/s, elapsed: 7s, ETA:    27s[>>>>>>                         ] 84/398, 11.6 task/s, elapsed: 7s, ETA:    27s[>>>>>>                         ] 85/398, 11.6 task/s, elapsed: 7s, ETA:    27s[>>>>>>                         ] 86/398, 11.6 task/s, elapsed: 7s, ETA:    27s[>>>>>>                         ] 87/398, 11.6 task/s, elapsed: 7s, ETA:    27s[>>>>>>                         ] 88/398, 11.6 task/s, elapsed: 8s, ETA:    27s[>>>>>>                         ] 89/398, 11.6 task/s, elapsed: 8s, ETA:    27s[>>>>>>>                        ] 90/398, 11.6 task/s, elapsed: 8s, ETA:    26s[>>>>>>>                        ] 91/398, 11.6 task/s, elapsed: 8s, ETA:    26s[>>>>>>>                        ] 92/398, 11.6 task/s, elapsed: 8s, ETA:    26s[>>>>>>>                        ] 93/398, 11.6 task/s, elapsed: 8s, ETA:    26s[>>>>>>>                        ] 94/398, 11.7 task/s, elapsed: 8s, ETA:    26s[>>>>>>>                        ] 95/398, 11.7 task/s, elapsed: 8s, ETA:    26s[>>>>>>>                        ] 96/398, 11.7 task/s, elapsed: 8s, ETA:    26s[>>>>>>>                        ] 97/398, 11.7 task/s, elapsed: 8s, ETA:    26s[>>>>>>>                        ] 98/398, 11.7 task/s, elapsed: 8s, ETA:    26s[>>>>>>>                        ] 99/398, 11.7 task/s, elapsed: 8s, ETA:    26s[>>>>>>>                       ] 100/398, 11.7 task/s, elapsed: 9s, ETA:    26s[>>>>>>>                       ] 101/398, 11.7 task/s, elapsed: 9s, ETA:    25s[>>>>>>>                       ] 102/398, 11.7 task/s, elapsed: 9s, ETA:    25s[>>>>>>>                       ] 103/398, 11.7 task/s, elapsed: 9s, ETA:    25s[>>>>>>>                       ] 104/398, 11.7 task/s, elapsed: 9s, ETA:    25s[>>>>>>>                       ] 105/398, 11.7 task/s, elapsed: 9s, ETA:    25s[>>>>>>>                       ] 106/398, 11.7 task/s, elapsed: 9s, ETA:    25s[>>>>>>>>                      ] 107/398, 11.7 task/s, elapsed: 9s, ETA:    25s[>>>>>>>>                      ] 108/398, 11.7 task/s, elapsed: 9s, ETA:    25s[>>>>>>>>                      ] 109/398, 11.7 task/s, elapsed: 9s, ETA:    25s[>>>>>>>>                      ] 110/398, 11.7 task/s, elapsed: 9s, ETA:    25s[>>>>>>>>                     ] 111/398, 11.7 task/s, elapsed: 10s, ETA:    25s[>>>>>>>>                     ] 112/398, 11.7 task/s, elapsed: 10s, ETA:    24s[>>>>>>>>                     ] 113/398, 11.7 task/s, elapsed: 10s, ETA:    24s[>>>>>>>>                     ] 114/398, 11.7 task/s, elapsed: 10s, ETA:    24s[>>>>>>>>                     ] 115/398, 11.7 task/s, elapsed: 10s, ETA:    24s[>>>>>>>>                     ] 116/398, 11.7 task/s, elapsed: 10s, ETA:    24s[>>>>>>>>                     ] 117/398, 11.7 task/s, elapsed: 10s, ETA:    24s[>>>>>>>>                     ] 118/398, 11.7 task/s, elapsed: 10s, ETA:    24s[>>>>>>>>                     ] 119/398, 11.7 task/s, elapsed: 10s, ETA:    24s[>>>>>>>>                     ] 120/398, 11.7 task/s, elapsed: 10s, ETA:    24s[>>>>>>>>                     ] 121/398, 11.7 task/s, elapsed: 10s, ETA:    24s[>>>>>>>>                     ] 122/398, 11.7 task/s, elapsed: 10s, ETA:    24s[>>>>>>>>                     ] 123/398, 11.7 task/s, elapsed: 11s, ETA:    24s[>>>>>>>>>                    ] 124/398, 11.7 task/s, elapsed: 11s, ETA:    23s[>>>>>>>>>                    ] 125/398, 11.7 task/s, elapsed: 11s, ETA:    23s[>>>>>>>>>                    ] 126/398, 11.7 task/s, elapsed: 11s, ETA:    23s[>>>>>>>>>                    ] 127/398, 11.7 task/s, elapsed: 11s, ETA:    23s[>>>>>>>>>                    ] 128/398, 11.7 task/s, elapsed: 11s, ETA:    23s[>>>>>>>>>                    ] 129/398, 11.7 task/s, elapsed: 11s, ETA:    23s[>>>>>>>>>                    ] 130/398, 11.7 task/s, elapsed: 11s, ETA:    23s[>>>>>>>>>                    ] 131/398, 11.7 task/s, elapsed: 11s, ETA:    23s[>>>>>>>>>                    ] 132/398, 11.7 task/s, elapsed: 11s, ETA:    23s[>>>>>>>>>                    ] 133/398, 11.7 task/s, elapsed: 11s, ETA:    23s[>>>>>>>>>                    ] 134/398, 11.7 task/s, elapsed: 11s, ETA:    23s[>>>>>>>>>                    ] 135/398, 11.7 task/s, elapsed: 12s, ETA:    23s[>>>>>>>>>                    ] 136/398, 11.7 task/s, elapsed: 12s, ETA:    22s[>>>>>>>>>                    ] 137/398, 11.7 task/s, elapsed: 12s, ETA:    22s[>>>>>>>>>>                   ] 138/398, 11.7 task/s, elapsed: 12s, ETA:    22s[>>>>>>>>>>                   ] 139/398, 11.7 task/s, elapsed: 12s, ETA:    22s[>>>>>>>>>>                   ] 140/398, 11.7 task/s, elapsed: 12s, ETA:    22s[>>>>>>>>>>                   ] 141/398, 11.7 task/s, elapsed: 12s, ETA:    22s[>>>>>>>>>>                   ] 142/398, 11.7 task/s, elapsed: 12s, ETA:    22s[>>>>>>>>>>                   ] 143/398, 11.7 task/s, elapsed: 12s, ETA:    22s[>>>>>>>>>>                   ] 144/398, 11.7 task/s, elapsed: 12s, ETA:    22s[>>>>>>>>>>                   ] 145/398, 11.7 task/s, elapsed: 12s, ETA:    22s[>>>>>>>>>>                   ] 146/398, 11.7 task/s, elapsed: 12s, ETA:    22s[>>>>>>>>>>                   ] 147/398, 11.7 task/s, elapsed: 13s, ETA:    21s[>>>>>>>>>>                   ] 148/398, 11.7 task/s, elapsed: 13s, ETA:    21s[>>>>>>>>>>                   ] 149/398, 11.7 task/s, elapsed: 13s, ETA:    21s[>>>>>>>>>>                   ] 150/398, 11.7 task/s, elapsed: 13s, ETA:    21s[>>>>>>>>>>>                  ] 151/398, 11.7 task/s, elapsed: 13s, ETA:    21s[>>>>>>>>>>>                  ] 152/398, 11.7 task/s, elapsed: 13s, ETA:    21s[>>>>>>>>>>>                  ] 153/398, 11.7 task/s, elapsed: 13s, ETA:    21s[>>>>>>>>>>>                  ] 154/398, 11.7 task/s, elapsed: 13s, ETA:    21s[>>>>>>>>>>>                  ] 155/398, 11.7 task/s, elapsed: 13s, ETA:    21s[>>>>>>>>>>>                  ] 156/398, 11.7 task/s, elapsed: 13s, ETA:    21s[>>>>>>>>>>>                  ] 157/398, 11.7 task/s, elapsed: 13s, ETA:    21s[>>>>>>>>>>>                  ] 158/398, 11.7 task/s, elapsed: 13s, ETA:    21s[>>>>>>>>>>>                  ] 159/398, 11.7 task/s, elapsed: 14s, ETA:    20s[>>>>>>>>>>>                  ] 160/398, 11.7 task/s, elapsed: 14s, ETA:    20s[>>>>>>>>>>>                  ] 161/398, 11.7 task/s, elapsed: 14s, ETA:    20s[>>>>>>>>>>>                  ] 162/398, 11.7 task/s, elapsed: 14s, ETA:    20s[>>>>>>>>>>>                  ] 163/398, 11.7 task/s, elapsed: 14s, ETA:    20s[>>>>>>>>>>>                  ] 164/398, 11.7 task/s, elapsed: 14s, ETA:    20s[>>>>>>>>>>>>                 ] 165/398, 11.7 task/s, elapsed: 14s, ETA:    20s[>>>>>>>>>>>>                 ] 166/398, 11.7 task/s, elapsed: 14s, ETA:    20s[>>>>>>>>>>>>                 ] 167/398, 11.7 task/s, elapsed: 14s, ETA:    20s[>>>>>>>>>>>>                 ] 168/398, 11.7 task/s, elapsed: 14s, ETA:    20s[>>>>>>>>>>>>                 ] 169/398, 11.7 task/s, elapsed: 14s, ETA:    20s[>>>>>>>>>>>>                 ] 170/398, 11.7 task/s, elapsed: 15s, ETA:    19s[>>>>>>>>>>>>                 ] 171/398, 11.7 task/s, elapsed: 15s, ETA:    19s[>>>>>>>>>>>>                 ] 172/398, 11.7 task/s, elapsed: 15s, ETA:    19s[>>>>>>>>>>>>                 ] 173/398, 11.7 task/s, elapsed: 15s, ETA:    19s[>>>>>>>>>>>>                 ] 174/398, 11.7 task/s, elapsed: 15s, ETA:    19s[>>>>>>>>>>>>                 ] 175/398, 11.7 task/s, elapsed: 15s, ETA:    19s[>>>>>>>>>>>>                 ] 176/398, 11.7 task/s, elapsed: 15s, ETA:    19s[>>>>>>>>>>>>                 ] 177/398, 11.7 task/s, elapsed: 15s, ETA:    19s[>>>>>>>>>>>>                 ] 178/398, 11.7 task/s, elapsed: 15s, ETA:    19s[>>>>>>>>>>>>>                ] 179/398, 11.7 task/s, elapsed: 15s, ETA:    19s[>>>>>>>>>>>>>                ] 180/398, 11.7 task/s, elapsed: 15s, ETA:    19s[>>>>>>>>>>>>>                ] 181/398, 11.7 task/s, elapsed: 15s, ETA:    18s[>>>>>>>>>>>>>                ] 182/398, 11.7 task/s, elapsed: 16s, ETA:    18s[>>>>>>>>>>>>>                ] 183/398, 11.7 task/s, elapsed: 16s, ETA:    18s[>>>>>>>>>>>>>                ] 184/398, 11.7 task/s, elapsed: 16s, ETA:    18s[>>>>>>>>>>>>>                ] 185/398, 11.7 task/s, elapsed: 16s, ETA:    18s[>>>>>>>>>>>>>                ] 186/398, 11.7 task/s, elapsed: 16s, ETA:    18s[>>>>>>>>>>>>>                ] 187/398, 11.7 task/s, elapsed: 16s, ETA:    18s[>>>>>>>>>>>>>                ] 188/398, 11.7 task/s, elapsed: 16s, ETA:    18s[>>>>>>>>>>>>>                ] 189/398, 11.7 task/s, elapsed: 16s, ETA:    18s[>>>>>>>>>>>>>                ] 190/398, 11.7 task/s, elapsed: 16s, ETA:    18s[>>>>>>>>>>>>>                ] 191/398, 11.7 task/s, elapsed: 16s, ETA:    18s[>>>>>>>>>>>>>                ] 192/398, 11.7 task/s, elapsed: 16s, ETA:    18s[>>>>>>>>>>>>>>               ] 193/398, 11.7 task/s, elapsed: 16s, ETA:    17s[>>>>>>>>>>>>>>               ] 194/398, 11.7 task/s, elapsed: 17s, ETA:    17s[>>>>>>>>>>>>>>               ] 195/398, 11.7 task/s, elapsed: 17s, ETA:    17s[>>>>>>>>>>>>>>               ] 196/398, 11.7 task/s, elapsed: 17s, ETA:    17s[>>>>>>>>>>>>>>               ] 197/398, 11.7 task/s, elapsed: 17s, ETA:    17s[>>>>>>>>>>>>>>               ] 198/398, 11.8 task/s, elapsed: 17s, ETA:    17s[>>>>>>>>>>>>>>               ] 199/398, 11.8 task/s, elapsed: 17s, ETA:    17s[>>>>>>>>>>>>>>               ] 200/398, 11.8 task/s, elapsed: 17s, ETA:    17s[>>>>>>>>>>>>>>               ] 201/398, 11.8 task/s, elapsed: 17s, ETA:    17s[>>>>>>>>>>>>>>               ] 202/398, 11.8 task/s, elapsed: 17s, ETA:    17s[>>>>>>>>>>>>>>               ] 203/398, 11.8 task/s, elapsed: 17s, ETA:    17s[>>>>>>>>>>>>>>               ] 204/398, 11.8 task/s, elapsed: 17s, ETA:    16s[>>>>>>>>>>>>>>               ] 205/398, 11.8 task/s, elapsed: 17s, ETA:    16s[>>>>>>>>>>>>>>>              ] 206/398, 11.8 task/s, elapsed: 18s, ETA:    16s[>>>>>>>>>>>>>>>              ] 207/398, 11.8 task/s, elapsed: 18s, ETA:    16s[>>>>>>>>>>>>>>>              ] 208/398, 11.8 task/s, elapsed: 18s, ETA:    16s[>>>>>>>>>>>>>>>              ] 209/398, 11.8 task/s, elapsed: 18s, ETA:    16s[>>>>>>>>>>>>>>>              ] 210/398, 11.8 task/s, elapsed: 18s, ETA:    16s[>>>>>>>>>>>>>>>              ] 211/398, 11.8 task/s, elapsed: 18s, ETA:    16s[>>>>>>>>>>>>>>>              ] 212/398, 11.8 task/s, elapsed: 18s, ETA:    16s[>>>>>>>>>>>>>>>              ] 213/398, 11.8 task/s, elapsed: 18s, ETA:    16s[>>>>>>>>>>>>>>>              ] 214/398, 11.8 task/s, elapsed: 18s, ETA:    16s[>>>>>>>>>>>>>>>              ] 215/398, 11.8 task/s, elapsed: 18s, ETA:    16s[>>>>>>>>>>>>>>>              ] 216/398, 11.8 task/s, elapsed: 18s, ETA:    15s[>>>>>>>>>>>>>>>              ] 217/398, 11.8 task/s, elapsed: 18s, ETA:    15s[>>>>>>>>>>>>>>>              ] 218/398, 11.8 task/s, elapsed: 18s, ETA:    15s[>>>>>>>>>>>>>>>              ] 219/398, 11.8 task/s, elapsed: 19s, ETA:    15s[>>>>>>>>>>>>>>>>             ] 220/398, 11.8 task/s, elapsed: 19s, ETA:    15s[>>>>>>>>>>>>>>>>             ] 221/398, 11.8 task/s, elapsed: 19s, ETA:    15s[>>>>>>>>>>>>>>>>             ] 222/398, 11.8 task/s, elapsed: 19s, ETA:    15s[>>>>>>>>>>>>>>>>             ] 223/398, 11.8 task/s, elapsed: 19s, ETA:    15s[>>>>>>>>>>>>>>>>             ] 224/398, 11.8 task/s, elapsed: 19s, ETA:    15s[>>>>>>>>>>>>>>>>             ] 225/398, 11.8 task/s, elapsed: 19s, ETA:    15s[>>>>>>>>>>>>>>>>             ] 226/398, 11.8 task/s, elapsed: 19s, ETA:    15s[>>>>>>>>>>>>>>>>             ] 227/398, 11.8 task/s, elapsed: 19s, ETA:    14s[>>>>>>>>>>>>>>>>             ] 228/398, 11.8 task/s, elapsed: 19s, ETA:    14s[>>>>>>>>>>>>>>>>             ] 229/398, 11.8 task/s, elapsed: 19s, ETA:    14s[>>>>>>>>>>>>>>>>             ] 230/398, 11.8 task/s, elapsed: 19s, ETA:    14s[>>>>>>>>>>>>>>>>             ] 231/398, 11.8 task/s, elapsed: 20s, ETA:    14s[>>>>>>>>>>>>>>>>             ] 232/398, 11.8 task/s, elapsed: 20s, ETA:    14s[>>>>>>>>>>>>>>>>             ] 233/398, 11.8 task/s, elapsed: 20s, ETA:    14s[>>>>>>>>>>>>>>>>>            ] 234/398, 11.8 task/s, elapsed: 20s, ETA:    14s[>>>>>>>>>>>>>>>>>            ] 235/398, 11.8 task/s, elapsed: 20s, ETA:    14s[>>>>>>>>>>>>>>>>>            ] 236/398, 11.8 task/s, elapsed: 20s, ETA:    14s[>>>>>>>>>>>>>>>>>            ] 237/398, 11.8 task/s, elapsed: 20s, ETA:    14s[>>>>>>>>>>>>>>>>>            ] 238/398, 11.8 task/s, elapsed: 20s, ETA:    14s[>>>>>>>>>>>>>>>>>            ] 239/398, 11.8 task/s, elapsed: 20s, ETA:    13s[>>>>>>>>>>>>>>>>>            ] 240/398, 11.8 task/s, elapsed: 20s, ETA:    13s[>>>>>>>>>>>>>>>>>            ] 241/398, 11.8 task/s, elapsed: 20s, ETA:    13s[>>>>>>>>>>>>>>>>>            ] 242/398, 11.8 task/s, elapsed: 20s, ETA:    13s[>>>>>>>>>>>>>>>>>            ] 243/398, 11.8 task/s, elapsed: 21s, ETA:    13s[>>>>>>>>>>>>>>>>>            ] 244/398, 11.8 task/s, elapsed: 21s, ETA:    13s[>>>>>>>>>>>>>>>>>            ] 245/398, 11.8 task/s, elapsed: 21s, ETA:    13s[>>>>>>>>>>>>>>>>>            ] 246/398, 11.8 task/s, elapsed: 21s, ETA:    13s[>>>>>>>>>>>>>>>>>            ] 247/398, 11.8 task/s, elapsed: 21s, ETA:    13s[>>>>>>>>>>>>>>>>>>           ] 248/398, 11.8 task/s, elapsed: 21s, ETA:    13s[>>>>>>>>>>>>>>>>>>           ] 249/398, 11.8 task/s, elapsed: 21s, ETA:    13s[>>>>>>>>>>>>>>>>>>           ] 250/398, 11.8 task/s, elapsed: 21s, ETA:    12s[>>>>>>>>>>>>>>>>>>           ] 251/398, 11.8 task/s, elapsed: 21s, ETA:    12s[>>>>>>>>>>>>>>>>>>           ] 252/398, 11.8 task/s, elapsed: 21s, ETA:    12s[>>>>>>>>>>>>>>>>>>           ] 253/398, 11.8 task/s, elapsed: 21s, ETA:    12s[>>>>>>>>>>>>>>>>>>           ] 254/398, 11.8 task/s, elapsed: 21s, ETA:    12s[>>>>>>>>>>>>>>>>>>           ] 255/398, 11.8 task/s, elapsed: 22s, ETA:    12s[>>>>>>>>>>>>>>>>>>           ] 256/398, 11.8 task/s, elapsed: 22s, ETA:    12s[>>>>>>>>>>>>>>>>>>           ] 257/398, 11.9 task/s, elapsed: 22s, ETA:    12s[>>>>>>>>>>>>>>>>>>           ] 258/398, 11.9 task/s, elapsed: 22s, ETA:    12s[>>>>>>>>>>>>>>>>>>           ] 259/398, 11.9 task/s, elapsed: 22s, ETA:    12s[>>>>>>>>>>>>>>>>>>           ] 260/398, 11.9 task/s, elapsed: 22s, ETA:    12s[>>>>>>>>>>>>>>>>>>>          ] 261/398, 11.9 task/s, elapsed: 22s, ETA:    12s[>>>>>>>>>>>>>>>>>>>          ] 262/398, 11.9 task/s, elapsed: 22s, ETA:    11s[>>>>>>>>>>>>>>>>>>>          ] 263/398, 11.9 task/s, elapsed: 22s, ETA:    11s[>>>>>>>>>>>>>>>>>>>          ] 264/398, 11.9 task/s, elapsed: 22s, ETA:    11s[>>>>>>>>>>>>>>>>>>>          ] 265/398, 11.9 task/s, elapsed: 22s, ETA:    11s[>>>>>>>>>>>>>>>>>>>          ] 266/398, 11.9 task/s, elapsed: 22s, ETA:    11s[>>>>>>>>>>>>>>>>>>>          ] 267/398, 11.9 task/s, elapsed: 23s, ETA:    11s[>>>>>>>>>>>>>>>>>>>          ] 268/398, 11.9 task/s, elapsed: 23s, ETA:    11s[>>>>>>>>>>>>>>>>>>>          ] 269/398, 11.9 task/s, elapsed: 23s, ETA:    11s[>>>>>>>>>>>>>>>>>>>          ] 270/398, 11.9 task/s, elapsed: 23s, ETA:    11s[>>>>>>>>>>>>>>>>>>>          ] 271/398, 11.9 task/s, elapsed: 23s, ETA:    11s[>>>>>>>>>>>>>>>>>>>          ] 272/398, 11.9 task/s, elapsed: 23s, ETA:    11s[>>>>>>>>>>>>>>>>>>>          ] 273/398, 11.9 task/s, elapsed: 23s, ETA:    11s[>>>>>>>>>>>>>>>>>>>          ] 274/398, 11.9 task/s, elapsed: 23s, ETA:    10s[>>>>>>>>>>>>>>>>>>>>         ] 275/398, 11.9 task/s, elapsed: 23s, ETA:    10s[>>>>>>>>>>>>>>>>>>>>         ] 276/398, 11.9 task/s, elapsed: 23s, ETA:    10s[>>>>>>>>>>>>>>>>>>>>         ] 277/398, 11.9 task/s, elapsed: 23s, ETA:    10s[>>>>>>>>>>>>>>>>>>>>         ] 278/398, 11.9 task/s, elapsed: 23s, ETA:    10s[>>>>>>>>>>>>>>>>>>>>         ] 279/398, 11.9 task/s, elapsed: 23s, ETA:    10s[>>>>>>>>>>>>>>>>>>>>         ] 280/398, 11.9 task/s, elapsed: 24s, ETA:    10s[>>>>>>>>>>>>>>>>>>>>         ] 281/398, 11.9 task/s, elapsed: 24s, ETA:    10s[>>>>>>>>>>>>>>>>>>>>         ] 282/398, 11.9 task/s, elapsed: 24s, ETA:    10s[>>>>>>>>>>>>>>>>>>>>         ] 283/398, 11.9 task/s, elapsed: 24s, ETA:    10s[>>>>>>>>>>>>>>>>>>>>         ] 284/398, 11.9 task/s, elapsed: 24s, ETA:    10s[>>>>>>>>>>>>>>>>>>>>         ] 285/398, 11.9 task/s, elapsed: 24s, ETA:    10s[>>>>>>>>>>>>>>>>>>>>         ] 286/398, 11.9 task/s, elapsed: 24s, ETA:     9s[>>>>>>>>>>>>>>>>>>>>         ] 287/398, 11.9 task/s, elapsed: 24s, ETA:     9s[>>>>>>>>>>>>>>>>>>>>         ] 288/398, 11.9 task/s, elapsed: 24s, ETA:     9s[>>>>>>>>>>>>>>>>>>>>>        ] 289/398, 11.9 task/s, elapsed: 24s, ETA:     9s[>>>>>>>>>>>>>>>>>>>>>        ] 290/398, 11.9 task/s, elapsed: 24s, ETA:     9s[>>>>>>>>>>>>>>>>>>>>>        ] 291/398, 11.9 task/s, elapsed: 24s, ETA:     9s[>>>>>>>>>>>>>>>>>>>>>        ] 292/398, 11.9 task/s, elapsed: 25s, ETA:     9s[>>>>>>>>>>>>>>>>>>>>>        ] 293/398, 11.9 task/s, elapsed: 25s, ETA:     9s[>>>>>>>>>>>>>>>>>>>>>        ] 294/398, 11.9 task/s, elapsed: 25s, ETA:     9s[>>>>>>>>>>>>>>>>>>>>>        ] 295/398, 11.9 task/s, elapsed: 25s, ETA:     9s[>>>>>>>>>>>>>>>>>>>>>        ] 296/398, 11.9 task/s, elapsed: 25s, ETA:     9s[>>>>>>>>>>>>>>>>>>>>>        ] 297/398, 11.9 task/s, elapsed: 25s, ETA:     8s[>>>>>>>>>>>>>>>>>>>>>        ] 298/398, 11.9 task/s, elapsed: 25s, ETA:     8s[>>>>>>>>>>>>>>>>>>>>>        ] 299/398, 11.9 task/s, elapsed: 25s, ETA:     8s[>>>>>>>>>>>>>>>>>>>>>        ] 300/398, 11.9 task/s, elapsed: 25s, ETA:     8s[>>>>>>>>>>>>>>>>>>>>>        ] 301/398, 11.9 task/s, elapsed: 25s, ETA:     8s[>>>>>>>>>>>>>>>>>>>>>>       ] 302/398, 11.9 task/s, elapsed: 25s, ETA:     8s[>>>>>>>>>>>>>>>>>>>>>>       ] 303/398, 11.9 task/s, elapsed: 25s, ETA:     8s[>>>>>>>>>>>>>>>>>>>>>>       ] 304/398, 11.9 task/s, elapsed: 26s, ETA:     8s[>>>>>>>>>>>>>>>>>>>>>>       ] 305/398, 11.9 task/s, elapsed: 26s, ETA:     8s[>>>>>>>>>>>>>>>>>>>>>>       ] 306/398, 11.9 task/s, elapsed: 26s, ETA:     8s[>>>>>>>>>>>>>>>>>>>>>>       ] 307/398, 11.9 task/s, elapsed: 26s, ETA:     8s[>>>>>>>>>>>>>>>>>>>>>>       ] 308/398, 11.9 task/s, elapsed: 26s, ETA:     8s[>>>>>>>>>>>>>>>>>>>>>>       ] 309/398, 11.9 task/s, elapsed: 26s, ETA:     7s[>>>>>>>>>>>>>>>>>>>>>>       ] 310/398, 11.9 task/s, elapsed: 26s, ETA:     7s[>>>>>>>>>>>>>>>>>>>>>>       ] 311/398, 11.9 task/s, elapsed: 26s, ETA:     7s[>>>>>>>>>>>>>>>>>>>>>>       ] 312/398, 11.9 task/s, elapsed: 26s, ETA:     7s[>>>>>>>>>>>>>>>>>>>>>>       ] 313/398, 11.9 task/s, elapsed: 26s, ETA:     7s[>>>>>>>>>>>>>>>>>>>>>>       ] 314/398, 11.9 task/s, elapsed: 26s, ETA:     7s[>>>>>>>>>>>>>>>>>>>>>>       ] 315/398, 11.9 task/s, elapsed: 26s, ETA:     7s[>>>>>>>>>>>>>>>>>>>>>>>      ] 316/398, 11.9 task/s, elapsed: 27s, ETA:     7s[>>>>>>>>>>>>>>>>>>>>>>>      ] 317/398, 11.9 task/s, elapsed: 27s, ETA:     7s[>>>>>>>>>>>>>>>>>>>>>>>      ] 318/398, 11.9 task/s, elapsed: 27s, ETA:     7s[>>>>>>>>>>>>>>>>>>>>>>>      ] 319/398, 11.9 task/s, elapsed: 27s, ETA:     7s[>>>>>>>>>>>>>>>>>>>>>>>      ] 320/398, 11.9 task/s, elapsed: 27s, ETA:     7s[>>>>>>>>>>>>>>>>>>>>>>>      ] 321/398, 11.9 task/s, elapsed: 27s, ETA:     6s[>>>>>>>>>>>>>>>>>>>>>>>      ] 322/398, 11.9 task/s, elapsed: 27s, ETA:     6s[>>>>>>>>>>>>>>>>>>>>>>>      ] 323/398, 11.9 task/s, elapsed: 27s, ETA:     6s[>>>>>>>>>>>>>>>>>>>>>>>      ] 324/398, 11.9 task/s, elapsed: 27s, ETA:     6s[>>>>>>>>>>>>>>>>>>>>>>>      ] 325/398, 11.9 task/s, elapsed: 27s, ETA:     6s[>>>>>>>>>>>>>>>>>>>>>>>      ] 326/398, 11.9 task/s, elapsed: 27s, ETA:     6s[>>>>>>>>>>>>>>>>>>>>>>>      ] 327/398, 11.9 task/s, elapsed: 27s, ETA:     6s[>>>>>>>>>>>>>>>>>>>>>>>      ] 328/398, 11.9 task/s, elapsed: 28s, ETA:     6s[>>>>>>>>>>>>>>>>>>>>>>>      ] 329/398, 11.9 task/s, elapsed: 28s, ETA:     6s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 330/398, 11.9 task/s, elapsed: 28s, ETA:     6s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 331/398, 11.9 task/s, elapsed: 28s, ETA:     6s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 332/398, 11.9 task/s, elapsed: 28s, ETA:     6s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 333/398, 11.9 task/s, elapsed: 28s, ETA:     5s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 334/398, 11.9 task/s, elapsed: 28s, ETA:     5s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 335/398, 11.9 task/s, elapsed: 28s, ETA:     5s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 336/398, 11.9 task/s, elapsed: 28s, ETA:     5s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 337/398, 11.9 task/s, elapsed: 28s, ETA:     5s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 338/398, 11.9 task/s, elapsed: 28s, ETA:     5s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 339/398, 11.9 task/s, elapsed: 28s, ETA:     5s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 340/398, 11.9 task/s, elapsed: 29s, ETA:     5s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 341/398, 11.9 task/s, elapsed: 29s, ETA:     5s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 342/398, 11.9 task/s, elapsed: 29s, ETA:     5s[>>>>>>>>>>>>>>>>>>>>>>>>     ] 343/398, 11.9 task/s, elapsed: 29s, ETA:     5s[>>>>>>>>>>>>>>>>>>>>>>>>>    ] 344/398, 11.9 task/s, elapsed: 29s, ETA:     5s[>>>>>>>>>>>>>>>>>>>>>>>>>    ] 345/398, 11.9 task/s, elapsed: 29s, ETA:     4s[>>>>>>>>>>>>>>>>>>>>>>>>>    ] 346/398, 11.9 task/s, elapsed: 29s, ETA:     4s[>>>>>>>>>>>>>>>>>>>>>>>>>    ] 347/398, 11.9 task/s, elapsed: 29s, ETA:     4s[>>>>>>>>>>>>>>>>>>>>>>>>>    ] 348/398, 11.9 task/s, elapsed: 29s, ETA:     4s[>>>>>>>>>>>>>>>>>>>>>>>>>    ] 349/398, 11.9 task/s, elapsed: 29s, ETA:     4s[>>>>>>>>>>>>>>>>>>>>>>>>>    ] 350/398, 11.9 task/s, elapsed: 29s, ETA:     4s[>>>>>>>>>>>>>>>>>>>>>>>>>    ] 351/398, 11.9 task/s, elapsed: 29s, ETA:     4s[>>>>>>>>>>>>>>>>>>>>>>>>>    ] 352/398, 11.9 task/s, elapsed: 30s, ETA:     4s[>>>>>>>>>>>>>>>>>>>>>>>>>    ] 353/398, 11.9 task/s, elapsed: 30s, ETA:     4s[>>>>>>>>>>>>>>>>>>>>>>>>>    ] 354/398, 11.9 task/s, elapsed: 30s, ETA:     4s[>>>>>>>>>>>>>>>>>>>>>>>>>    ] 355/398, 11.9 task/s, elapsed: 30s, ETA:     4s[>>>>>>>>>>>>>>>>>>>>>>>>>    ] 356/398, 11.9 task/s, elapsed: 30s, ETA:     4s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 357/398, 11.9 task/s, elapsed: 30s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 358/398, 11.9 task/s, elapsed: 30s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 359/398, 11.9 task/s, elapsed: 30s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 360/398, 11.9 task/s, elapsed: 30s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 361/398, 11.9 task/s, elapsed: 30s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 362/398, 11.9 task/s, elapsed: 30s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 363/398, 11.9 task/s, elapsed: 30s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 364/398, 11.9 task/s, elapsed: 31s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 365/398, 11.9 task/s, elapsed: 31s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 366/398, 11.9 task/s, elapsed: 31s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 367/398, 11.9 task/s, elapsed: 31s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 368/398, 11.9 task/s, elapsed: 31s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 369/398, 11.9 task/s, elapsed: 31s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 370/398, 11.9 task/s, elapsed: 31s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 371/398, 11.9 task/s, elapsed: 31s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 372/398, 11.9 task/s, elapsed: 31s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 373/398, 11.9 task/s, elapsed: 31s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 374/398, 11.9 task/s, elapsed: 31s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 375/398, 11.9 task/s, elapsed: 31s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 376/398, 11.9 task/s, elapsed: 32s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 377/398, 11.9 task/s, elapsed: 32s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 378/398, 11.9 task/s, elapsed: 32s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 379/398, 11.9 task/s, elapsed: 32s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 380/398, 11.9 task/s, elapsed: 32s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 381/398, 11.9 task/s, elapsed: 32s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 382/398, 11.9 task/s, elapsed: 32s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 383/398, 11.9 task/s, elapsed: 32s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 384/398, 11.9 task/s, elapsed: 32s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 385/398, 11.9 task/s, elapsed: 32s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 386/398, 11.9 task/s, elapsed: 32s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 387/398, 11.9 task/s, elapsed: 33s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 388/398, 11.9 task/s, elapsed: 33s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 389/398, 11.9 task/s, elapsed: 33s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 390/398, 11.9 task/s, elapsed: 33s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 391/398, 11.9 task/s, elapsed: 33s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 392/398, 11.9 task/s, elapsed: 33s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 393/398, 11.9 task/s, elapsed: 33s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 394/398, 11.9 task/s, elapsed: 33s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 395/398, 11.9 task/s, elapsed: 33s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 396/398, 11.9 task/s, elapsed: 33s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 397/398, 11.9 task/s, elapsed: 33s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>] 398/398, 11.9 task/s, elapsed: 33s, ETA:     0sEncoderDecoder(
+  (backbone): HRNet(
+    (conv1): Conv2d(3, 64, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+    (bn1): _BatchNormXd(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+    (bn2): _BatchNormXd(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (relu): ReLU(inplace=True)
+    (layer1): Sequential(
+      (0): Bottleneck(
+        (conv1): Conv2d(64, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn1): _BatchNormXd(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): _BatchNormXd(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv3): Conv2d(64, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn3): _BatchNormXd(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (relu): ReLU(inplace=True)
+        (downsample): Sequential(
+          (0): Conv2d(64, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (1): _BatchNormXd(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        )
+      )
+      (1): Bottleneck(
+        (conv1): Conv2d(256, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn1): _BatchNormXd(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): _BatchNormXd(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv3): Conv2d(64, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn3): _BatchNormXd(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (relu): ReLU(inplace=True)
+      )
+      (2): Bottleneck(
+        (conv1): Conv2d(256, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn1): _BatchNormXd(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): _BatchNormXd(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv3): Conv2d(64, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn3): _BatchNormXd(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (relu): ReLU(inplace=True)
+      )
+      (3): Bottleneck(
+        (conv1): Conv2d(256, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn1): _BatchNormXd(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): _BatchNormXd(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (conv3): Conv2d(64, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn3): _BatchNormXd(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (relu): ReLU(inplace=True)
+      )
+    )
+    (transition1): ModuleList(
+      (0): Sequential(
+        (0): Conv2d(256, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (2): ReLU(inplace=True)
+      )
+      (1): Sequential(
+        (0): Sequential(
+          (0): Conv2d(256, 36, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+          (1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (2): ReLU(inplace=True)
+        )
+      )
+    )
+    (stage2): Sequential(
+      (0): HRModule(
+        (branches): ModuleList(
+          (0): Sequential(
+            (0): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (1): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (2): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (3): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+          )
+          (1): Sequential(
+            (0): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (1): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (2): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (3): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+          )
+        )
+        (fuse_layers): ModuleList(
+          (0): ModuleList(
+            (0): None
+            (1): Sequential(
+              (0): Conv2d(36, 18, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+          )
+          (1): ModuleList(
+            (0): Sequential(
+              (0): Sequential(
+                (0): Conv2d(18, 36, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (1): None
+          )
+        )
+        (relu): ReLU()
+      )
+    )
+    (transition2): ModuleList(
+      (0): None
+      (1): None
+      (2): Sequential(
+        (0): Sequential(
+          (0): Conv2d(36, 72, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+          (1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (2): ReLU(inplace=True)
+        )
+      )
+    )
+    (stage3): Sequential(
+      (0): HRModule(
+        (branches): ModuleList(
+          (0): Sequential(
+            (0): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (1): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (2): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (3): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+          )
+          (1): Sequential(
+            (0): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (1): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (2): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (3): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+          )
+          (2): Sequential(
+            (0): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (1): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (2): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (3): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+          )
+        )
+        (fuse_layers): ModuleList(
+          (0): ModuleList(
+            (0): None
+            (1): Sequential(
+              (0): Conv2d(36, 18, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+            (2): Sequential(
+              (0): Conv2d(72, 18, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+          )
+          (1): ModuleList(
+            (0): Sequential(
+              (0): Sequential(
+                (0): Conv2d(18, 36, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (1): None
+            (2): Sequential(
+              (0): Conv2d(72, 36, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+          )
+          (2): ModuleList(
+            (0): Sequential(
+              (0): Sequential(
+                (0): Conv2d(18, 18, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (2): ReLU()
+              )
+              (1): Sequential(
+                (0): Conv2d(18, 72, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (1): Sequential(
+              (0): Sequential(
+                (0): Conv2d(36, 72, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (2): None
+          )
+        )
+        (relu): ReLU()
+      )
+      (1): HRModule(
+        (branches): ModuleList(
+          (0): Sequential(
+            (0): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (1): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (2): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (3): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+          )
+          (1): Sequential(
+            (0): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (1): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (2): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (3): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+          )
+          (2): Sequential(
+            (0): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (1): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (2): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (3): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+          )
+        )
+        (fuse_layers): ModuleList(
+          (0): ModuleList(
+            (0): None
+            (1): Sequential(
+              (0): Conv2d(36, 18, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+            (2): Sequential(
+              (0): Conv2d(72, 18, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+          )
+          (1): ModuleList(
+            (0): Sequential(
+              (0): Sequential(
+                (0): Conv2d(18, 36, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (1): None
+            (2): Sequential(
+              (0): Conv2d(72, 36, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+          )
+          (2): ModuleList(
+            (0): Sequential(
+              (0): Sequential(
+                (0): Conv2d(18, 18, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (2): ReLU()
+              )
+              (1): Sequential(
+                (0): Conv2d(18, 72, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (1): Sequential(
+              (0): Sequential(
+                (0): Conv2d(36, 72, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (2): None
+          )
+        )
+        (relu): ReLU()
+      )
+      (2): HRModule(
+        (branches): ModuleList(
+          (0): Sequential(
+            (0): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (1): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (2): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (3): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+          )
+          (1): Sequential(
+            (0): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (1): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (2): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (3): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+          )
+          (2): Sequential(
+            (0): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (1): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (2): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (3): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+          )
+        )
+        (fuse_layers): ModuleList(
+          (0): ModuleList(
+            (0): None
+            (1): Sequential(
+              (0): Conv2d(36, 18, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+            (2): Sequential(
+              (0): Conv2d(72, 18, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+          )
+          (1): ModuleList(
+            (0): Sequential(
+              (0): Sequential(
+                (0): Conv2d(18, 36, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (1): None
+            (2): Sequential(
+              (0): Conv2d(72, 36, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+          )
+          (2): ModuleList(
+            (0): Sequential(
+              (0): Sequential(
+                (0): Conv2d(18, 18, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (2): ReLU()
+              )
+              (1): Sequential(
+                (0): Conv2d(18, 72, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (1): Sequential(
+              (0): Sequential(
+                (0): Conv2d(36, 72, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (2): None
+          )
+        )
+        (relu): ReLU()
+      )
+      (3): HRModule(
+        (branches): ModuleList(
+          (0): Sequential(
+            (0): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (1): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (2): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (3): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+          )
+          (1): Sequential(
+            (0): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (1): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (2): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (3): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+          )
+          (2): Sequential(
+            (0): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (1): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (2): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (3): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+          )
+        )
+        (fuse_layers): ModuleList(
+          (0): ModuleList(
+            (0): None
+            (1): Sequential(
+              (0): Conv2d(36, 18, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+            (2): Sequential(
+              (0): Conv2d(72, 18, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+          )
+          (1): ModuleList(
+            (0): Sequential(
+              (0): Sequential(
+                (0): Conv2d(18, 36, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (1): None
+            (2): Sequential(
+              (0): Conv2d(72, 36, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+          )
+          (2): ModuleList(
+            (0): Sequential(
+              (0): Sequential(
+                (0): Conv2d(18, 18, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (2): ReLU()
+              )
+              (1): Sequential(
+                (0): Conv2d(18, 72, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (1): Sequential(
+              (0): Sequential(
+                (0): Conv2d(36, 72, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (2): None
+          )
+        )
+        (relu): ReLU()
+      )
+    )
+    (transition3): ModuleList(
+      (0): None
+      (1): None
+      (2): None
+      (3): Sequential(
+        (0): Sequential(
+          (0): Conv2d(72, 144, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+          (1): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (2): ReLU(inplace=True)
+        )
+      )
+    )
+    (stage4): Sequential(
+      (0): HRModule(
+        (branches): ModuleList(
+          (0): Sequential(
+            (0): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (1): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (2): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (3): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+          )
+          (1): Sequential(
+            (0): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (1): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (2): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (3): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+          )
+          (2): Sequential(
+            (0): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (1): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (2): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (3): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+          )
+          (3): Sequential(
+            (0): BasicBlock(
+              (conv1): Conv2d(144, 144, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(144, 144, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (1): BasicBlock(
+              (conv1): Conv2d(144, 144, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(144, 144, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (2): BasicBlock(
+              (conv1): Conv2d(144, 144, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(144, 144, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (3): BasicBlock(
+              (conv1): Conv2d(144, 144, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(144, 144, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+          )
+        )
+        (fuse_layers): ModuleList(
+          (0): ModuleList(
+            (0): None
+            (1): Sequential(
+              (0): Conv2d(36, 18, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+            (2): Sequential(
+              (0): Conv2d(72, 18, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+            (3): Sequential(
+              (0): Conv2d(144, 18, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+          )
+          (1): ModuleList(
+            (0): Sequential(
+              (0): Sequential(
+                (0): Conv2d(18, 36, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (1): None
+            (2): Sequential(
+              (0): Conv2d(72, 36, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+            (3): Sequential(
+              (0): Conv2d(144, 36, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+          )
+          (2): ModuleList(
+            (0): Sequential(
+              (0): Sequential(
+                (0): Conv2d(18, 18, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (2): ReLU()
+              )
+              (1): Sequential(
+                (0): Conv2d(18, 72, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (1): Sequential(
+              (0): Sequential(
+                (0): Conv2d(36, 72, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (2): None
+            (3): Sequential(
+              (0): Conv2d(144, 72, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+          )
+          (3): ModuleList(
+            (0): Sequential(
+              (0): Sequential(
+                (0): Conv2d(18, 18, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (2): ReLU()
+              )
+              (1): Sequential(
+                (0): Conv2d(18, 18, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (2): ReLU()
+              )
+              (2): Sequential(
+                (0): Conv2d(18, 144, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (1): Sequential(
+              (0): Sequential(
+                (0): Conv2d(36, 36, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (2): ReLU()
+              )
+              (1): Sequential(
+                (0): Conv2d(36, 144, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (2): Sequential(
+              (0): Sequential(
+                (0): Conv2d(72, 144, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (3): None
+          )
+        )
+        (relu): ReLU()
+      )
+      (1): HRModule(
+        (branches): ModuleList(
+          (0): Sequential(
+            (0): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (1): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (2): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (3): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+          )
+          (1): Sequential(
+            (0): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (1): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (2): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (3): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+          )
+          (2): Sequential(
+            (0): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (1): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (2): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (3): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+          )
+          (3): Sequential(
+            (0): BasicBlock(
+              (conv1): Conv2d(144, 144, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(144, 144, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (1): BasicBlock(
+              (conv1): Conv2d(144, 144, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(144, 144, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (2): BasicBlock(
+              (conv1): Conv2d(144, 144, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(144, 144, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (3): BasicBlock(
+              (conv1): Conv2d(144, 144, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(144, 144, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+          )
+        )
+        (fuse_layers): ModuleList(
+          (0): ModuleList(
+            (0): None
+            (1): Sequential(
+              (0): Conv2d(36, 18, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+            (2): Sequential(
+              (0): Conv2d(72, 18, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+            (3): Sequential(
+              (0): Conv2d(144, 18, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+          )
+          (1): ModuleList(
+            (0): Sequential(
+              (0): Sequential(
+                (0): Conv2d(18, 36, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (1): None
+            (2): Sequential(
+              (0): Conv2d(72, 36, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+            (3): Sequential(
+              (0): Conv2d(144, 36, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+          )
+          (2): ModuleList(
+            (0): Sequential(
+              (0): Sequential(
+                (0): Conv2d(18, 18, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (2): ReLU()
+              )
+              (1): Sequential(
+                (0): Conv2d(18, 72, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (1): Sequential(
+              (0): Sequential(
+                (0): Conv2d(36, 72, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (2): None
+            (3): Sequential(
+              (0): Conv2d(144, 72, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+          )
+          (3): ModuleList(
+            (0): Sequential(
+              (0): Sequential(
+                (0): Conv2d(18, 18, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (2): ReLU()
+              )
+              (1): Sequential(
+                (0): Conv2d(18, 18, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (2): ReLU()
+              )
+              (2): Sequential(
+                (0): Conv2d(18, 144, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (1): Sequential(
+              (0): Sequential(
+                (0): Conv2d(36, 36, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (2): ReLU()
+              )
+              (1): Sequential(
+                (0): Conv2d(36, 144, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (2): Sequential(
+              (0): Sequential(
+                (0): Conv2d(72, 144, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (3): None
+          )
+        )
+        (relu): ReLU()
+      )
+      (2): HRModule(
+        (branches): ModuleList(
+          (0): Sequential(
+            (0): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (1): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (2): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (3): BasicBlock(
+              (conv1): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(18, 18, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+          )
+          (1): Sequential(
+            (0): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (1): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (2): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (3): BasicBlock(
+              (conv1): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(36, 36, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+          )
+          (2): Sequential(
+            (0): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (1): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (2): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (3): BasicBlock(
+              (conv1): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(72, 72, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+          )
+          (3): Sequential(
+            (0): BasicBlock(
+              (conv1): Conv2d(144, 144, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(144, 144, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (1): BasicBlock(
+              (conv1): Conv2d(144, 144, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(144, 144, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (2): BasicBlock(
+              (conv1): Conv2d(144, 144, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(144, 144, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+            (3): BasicBlock(
+              (conv1): Conv2d(144, 144, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn1): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (conv2): Conv2d(144, 144, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+              (bn2): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (relu): ReLU(inplace=True)
+            )
+          )
+        )
+        (fuse_layers): ModuleList(
+          (0): ModuleList(
+            (0): None
+            (1): Sequential(
+              (0): Conv2d(36, 18, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+            (2): Sequential(
+              (0): Conv2d(72, 18, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+            (3): Sequential(
+              (0): Conv2d(144, 18, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+          )
+          (1): ModuleList(
+            (0): Sequential(
+              (0): Sequential(
+                (0): Conv2d(18, 36, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (1): None
+            (2): Sequential(
+              (0): Conv2d(72, 36, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+            (3): Sequential(
+              (0): Conv2d(144, 36, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+          )
+          (2): ModuleList(
+            (0): Sequential(
+              (0): Sequential(
+                (0): Conv2d(18, 18, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (2): ReLU()
+              )
+              (1): Sequential(
+                (0): Conv2d(18, 72, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (1): Sequential(
+              (0): Sequential(
+                (0): Conv2d(36, 72, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (2): None
+            (3): Sequential(
+              (0): Conv2d(144, 72, kernel_size=(1, 1), stride=(1, 1), bias=False)
+              (1): _BatchNormXd(72, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (2): Upsample()
+            )
+          )
+          (3): ModuleList(
+            (0): Sequential(
+              (0): Sequential(
+                (0): Conv2d(18, 18, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (2): ReLU()
+              )
+              (1): Sequential(
+                (0): Conv2d(18, 18, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(18, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (2): ReLU()
+              )
+              (2): Sequential(
+                (0): Conv2d(18, 144, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (1): Sequential(
+              (0): Sequential(
+                (0): Conv2d(36, 36, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(36, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (2): ReLU()
+              )
+              (1): Sequential(
+                (0): Conv2d(36, 144, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (2): Sequential(
+              (0): Sequential(
+                (0): Conv2d(72, 144, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+                (1): _BatchNormXd(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              )
+            )
+            (3): None
+          )
+        )
+        (relu): ReLU()
+      )
+    )
+  )
+  init_cfg={'type': 'Pretrained', 'checkpoint': 'open-mmlab://msra/hrnetv2_w18'}
+  (decode_head): FCNHead(
+    input_transform=resize_concat, ignore_index=255, align_corners=False
+    (loss_decode): CrossEntropyLoss(avg_non_ignore=False)
+    (conv_seg): Conv2d(270, 6, kernel_size=(1, 1), stride=(1, 1))
+    (convs): Sequential(
+      (0): ConvModule(
+        (conv): Conv2d(270, 270, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (bn): _BatchNormXd(270, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (activate): ReLU(inplace=True)
+      )
+    )
+  )
+  init_cfg={'type': 'Normal', 'std': 0.01, 'override': {'name': 'conv_seg'}}
+)
+[[0.8172103 ]
+ [0.94207233]
+ [0.7258522 ]
+ [0.9012177 ]
+ [0.5808104 ]
+ [0.43706134]]
+cosine_similarity for each category logit vector
+[[ 1.0000001  -0.12417902 -0.28028038 -0.49244016 -0.09485665  0.0208235 ]
+ [-0.12417902  1.         -0.32611933 -0.46474552 -0.10924529 -0.1772905 ]
+ [-0.28028038 -0.32611933  0.9999999   0.34391004 -0.45639893 -0.4285581 ]
+ [-0.49244016 -0.46474552  0.34391004  1.0000005  -0.24615581 -0.24908213]
+ [-0.09485665 -0.10924529 -0.45639893 -0.24615581  1.          0.47113833]
+ [ 0.0208235  -0.1772905  -0.4285581  -0.24908213  0.47113833  1.0000004 ]]
