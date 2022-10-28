@@ -13,7 +13,7 @@ from torch import nn
 
 train_flag = True 
 
-experiment_name='potsdam_tta_v2'
+experiment_name='swim_vaihingen_tta'
 #experiment_name='vaihingen_mma_balance_norm_normx'
 
 class ListRecorder(object):
